@@ -1,6 +1,111 @@
-# 👋 Hi, I'm Abdalla Samir
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abdalla Samir - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1e1e1e;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
 
-### 🚀 Software Engineering Student | Passionate Developer | Tech Enthusiast
+    .container {
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin: 0;
+      opacity: 0;
+      animation: fadeIn 2s forwards;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin: 10px 0 0;
+      opacity: 0;
+      animation: fadeIn 2s forwards 1s; /* Delay of 1s */
+    }
+
+    .contrast-toggle {
+      margin-top: 20px;
+    }
+
+    .contrast-toggle button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 1rem;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .contrast-toggle button:hover {
+      background-color: #0056b3;
+    }
+
+    /* High contrast mode */
+    .high-contrast {
+      background-color: #000000;
+      color: #ffffff;
+    }
+
+    /* Animations */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeOut {
+      from {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      to {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 id="greeting">👋 Hi, I'm Abdalla Samir</h1>
+    <h2 id="tagline">🚀 Software Engineering Student | Passionate Developer | Tech Enthusiast</h2>
+    <div class="contrast-toggle">
+      <button onclick="toggleContrast()">Toggle High Contrast</button>
+    </div>
+  </div>
+
+  <script>
+    // Function to toggle high contrast mode
+    function toggleContrast() {
+      document.body.classList.toggle('high-contrast');
+    }
+
+    // Optional: Add a fade-out effect after a delay
+    setTimeout(() => {
+      document.getElementById('greeting').style.animation = 'fadeOut 2s forwards';
+      document.getElementById('tagline').style.animation = 'fadeOut 2s forwards';
+    }, 10000); // Fades out after 10 seconds
+  </script>
+</body>
+</html>
 
 Welcome to my GitHub profile! I'm a **Software Engineering** student at **Assiut University**, specializing in **Software Engineering** at the **Faculty of Computer Science & Artificial Intelligence (FCAI)**. I'm passionate about coding, building innovative solutions, and contributing to the tech community. Let's create something amazing together! 💻✨
 
