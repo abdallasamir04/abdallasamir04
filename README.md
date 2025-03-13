@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Abdalla Samir
 
-### 🚀 Software Engineering Student | Passionate Developer | Tech Enthusiast
+![](https://img.shields.io/badge/-Software_Engineering_Student-0a0a0a?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/-Passionate_Developer-critical?style=for-the-badge&logo=codepen)
+![](https://img.shields.io/badge/-Tech_Enthusiast-blueviolet?style=for-the-badge&logo=tech)
+
 
 Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Faculty of Computer Science & Artificial Intelligence (FCAI)**. I'm passionate about coding, building innovative solutions, and contributing to the tech community. Let's create something amazing together! 💻✨
 
