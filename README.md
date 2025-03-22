@@ -75,16 +75,17 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 ---
 
 ## 🌐 Socials
+## 🌐 Socials
 
 Let's connect! Feel free to reach out or follow me on these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width=100&height=30)](https://linkedin.com/in/abdalla-mahmoud-9264242b6)
-[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&width=100&height=30)](https://x.com/abdallasamir04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&width=100&height=30)](https://linkedin.com/in/abdalla-mahmoud-9264242b6)
+[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge&width=100&height=30)](https://x.com/abdallasamir04)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&width=100&height=30)](https://www.facebook.com/abdallasamir04)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&width=100&height=30)](https://t.me/abdallasamir04)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&width=100&height=30)](https://github.com/abdallasamir04)
 
----
+--
 
 ## 📊 GitHub Stats
 
