@@ -17,19 +17,21 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 
 ## 🛠️ Projects I'm Working On
 
-Here are some of the exciting projects I'm currently working on:
+### 🖥️ **Operating Systems Project: Mini-FAT File System**
+- **Description**: A simplified implementation of the FAT file system using **C#**, simulating a virtual disk and supporting file allocation tracking.
+- **Tech Stack**: C#, .NET, File System Design.
 
-### 📚 **ATLAS Project**
-- **Description**: Developing an **Automated Tracking and Logging Attendance System*** for efficient attendance management.
-- **Tech Stack**: C#, .NET, Database Management.
+### 📐 **Geometric Object Area & Perimeter Calculator**
+- **Description**: A **Java-based** GUI application to calculate the area and perimeter of geometric shapes (circle, rectangle, square).
+- **Tech Stack**: Java, GUI, Object-Oriented Programming.
 
-### 💾 **Operating Systems Project**
-- **Description**: Creating a **Virtual Disk**, **Directory Structure**, and a **Mini FAT** for a file system.
-- **Tech Stack**: C#, File System Design, Data Structures.
+### 📝 **TO-DO List Application**
+- **Description**: A **C++** project using a linked list data structure to manage tasks, including add, remove, edit, and mark tasks as done.
+- **Tech Stack**: C++, Data Structures, Linked List.
 
-### 🌐 **Networking Challenges**
-- **Description**: Solving questions from **Computer Networking: A Top-Down Approach** to sharpen my networking skills.
-- **Tech Stack**: Networking Protocols, Python, Wireshark.
+### 🛍️ **Electro E-Commerce**
+- **Description**: An **E-commerce platform** project focused on creating an online store for electronics, currently under development.
+- **Tech Stack**: E-commerce, Web Development (Currently in progress).
 
 ---
 
@@ -78,7 +80,7 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdalla-mahmoud-9264242b6)
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdallasamir04)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abdallasamir04)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallasamir04)
 
 ---
 
