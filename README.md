@@ -75,7 +75,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 ---
 
 ## 🌐 Socials
-## 🌐 Socials
 
 Let's connect! Feel free to reach out or follow me on these platforms:
 
@@ -85,7 +84,7 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&width=100&height=30)](https://t.me/abdallasamir04)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&width=100&height=30)](https://github.com/abdallasamir04)
 
---
+---
 
 ## 📊 GitHub Stats
 
