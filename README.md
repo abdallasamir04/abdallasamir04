@@ -95,17 +95,31 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<!-- Contribution Graph -->
+## 📊 GitHub Stats [<kbd>See My Contributions</kbd>](https://github.com/users/abdallasamir04/contributions) | [<kbd>Explore My Repositories</kbd>](https://github.com/abdallasamir04?tab=repositories)
+
+<!-- Contribution Graph (Optional - if you add it back) -->
 <p align="center">
   <img src="https://ghchart.rshah.org/abdallasamir04" alt="Abdalla Samir's Contribution Graph" />
+  <br/><em><a href="https://github.com/users/abdallasamir04/contributions">View Contribution Details on GitHub</a></em>
 </p>
 <!-- End Contribution Graph -->
 
-![](https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Stats Card & Language Card -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Abdalla Samir's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Abdalla Samir's Top Languages"/>
+</p>
+
+<!-- Links related to the stats cards -->
+<p align="center">
+  <em>Explore my code:</em>
+  <a href="https://github.com/abdallasamir04?tab=repositories" title="Repositories">Repositories</a> |
+  <a href="https://gist.github.com/abdallasamir04" title="Gists">Gists</a> |
+  <a href="https://github.com/abdallasamir04?tab=stars" title="Starred Repos">Starred Repos</a>
+</p>
+
 
 ---
 
