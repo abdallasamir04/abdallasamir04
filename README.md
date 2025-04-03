@@ -87,6 +87,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 Let's connect! Feel free to reach out or follow me on these platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&width=100&height=30)](https://linkedin.com/in/abdalla-mahmoud-9264242b6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirovic707@gmail.com)  
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge&width=100&height=30)](https://x.com/abdallasamir04)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&width=100&height=30)](https://www.facebook.com/abdallasamir04)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&width=100&height=30)](https://t.me/abdallasamir04)
@@ -99,6 +100,9 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 ![](https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Abdalla Samir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
