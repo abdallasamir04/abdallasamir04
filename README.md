@@ -95,14 +95,15 @@ Welcome to my GitHub profile! I'm a *Software Engineering* student at the **Facu
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
+<!-- Main Stats Card - Centered -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=dark" style="max-width: 800px; height: auto;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=dark" alt="Abdalla Samir Stats Summary" style="max-width: 800px; height: auto;" />
 </p>
-<div style="display: flex; justify-content: flex-start; gap: 20px;"> 
-  <!-- Changed justify-content to flex-start -->
-  <!-- Optional: Reduced gap slightly for potentially better balance -->
+
+<!-- Language Cards - Left and Right Aligned -->
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=dark" alt="Top Languages by Repo"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdallasamir04&theme=dark" alt="Top Languages by Commit"/>
 </div>
