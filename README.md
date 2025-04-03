@@ -2,14 +2,14 @@
 
 ### 🚀 Software Engineering Student | Passionate Developer | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Faculty of Computer Science & Artificial Intelligence (FCAI)**. I'm passionate about coding, building innovative solutions, and contributing to the tech community. Let's create something amazing together! 💻✨
+Welcome to my GitHub profile! I'm a *Software Engineering* student at the *Faculty of Computer Science & Artificial Intelligence (FCAI)*. I'm passionate about coding, building innovative solutions, and contributing to the tech community. Let's create something amazing together! 💻✨
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 **Software Engineering Student** at **Assiut University**.
-- 💻 Passionate about **coding**, **problem-solving**, and **building real-world applications**.
+- 🎓 *Software Engineering Student* at *Assiut University*.
+- 💻 Passionate about *coding*, **problem-solving**, and **building real-world applications**.
 - 🌱 Constantly learning and growing as a developer.
 - 🚀 Driven by curiosity and a desire to make an impact through technology.
 
@@ -17,29 +17,29 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 
 ## 🛠️ Projects I'm Working On
 
-### 🖥️ **Operating Systems Project: Mini-FAT File System**
-- **Description**: A simplified implementation of the FAT file system using **C#**, simulating a virtual disk and supporting file allocation tracking.
-- **Tech Stack**: C#, .NET, File System Design.
-- **Problem Solved**: Simulates a basic file system to understand how data management works on a low level.
-- **Key Takeaway**: Learned how the FAT system handles disk space management and allocation.
+### 🖥️ *Operating Systems Project: Mini-FAT File System*
+- *Description*: A simplified implementation of the FAT file system using **C#**, simulating a virtual disk and supporting file allocation tracking.
+- *Tech Stack*: C#, .NET, File System Design.
+- *Problem Solved*: Simulates a basic file system to understand how data management works on a low level.
+- *Key Takeaway*: Learned how the FAT system handles disk space management and allocation.
 
-### 📐 **Geometric Object Area & Perimeter Calculator**
-- **Description**: A **Java-based** GUI application to calculate the area and perimeter of geometric shapes (circle, rectangle, square).
-- **Tech Stack**: Java, GUI, Object-Oriented Programming.
-- **Problem Solved**: Makes calculations for various shapes easy to perform in a graphical user interface.
-- **Key Takeaway**: Learned how to implement inheritance and polymorphism in Java.
+### 📐 *Geometric Object Area & Perimeter Calculator*
+- *Description*: A **Java-based** GUI application to calculate the area and perimeter of geometric shapes (circle, rectangle, square).
+- *Tech Stack*: Java, GUI, Object-Oriented Programming.
+- *Problem Solved*: Makes calculations for various shapes easy to perform in a graphical user interface.
+- *Key Takeaway*: Learned how to implement inheritance and polymorphism in Java.
 
-### 📝 **TO-DO List Application**
-- **Description**: A **C++** project using a linked list data structure to manage tasks, including add, remove, edit, and mark tasks as done.
-- **Tech Stack**: C++, Data Structures, Linked List.
-- **Problem Solved**: Efficient task management with easy-to-use command-line interface.
-- **Key Takeaway**: Strengthened understanding of linked lists and memory management in C++.
+### 📝 *TO-DO List Application*
+- *Description*: A **C++** project using a linked list data structure to manage tasks, including add, remove, edit, and mark tasks as done.
+- *Tech Stack*: C++, Data Structures, Linked List.
+- *Problem Solved*: Efficient task management with easy-to-use command-line interface.
+- *Key Takeaway*: Strengthened understanding of linked lists and memory management in C++.
 
-### 🛍️ **Electro E-Commerce**
-- **Description**: An **E-commerce platform** project focused on creating an online store for electronics, currently under development.
-- **Tech Stack**: .NET, C#, Databases, SQL Server, LINQ, jQuery, HTML, CSS, JavaScript, Bootstrap.
-- **Problem Solved**: Creates a user-friendly platform to browse and purchase electronics online.
-- **Key Takeaway**: Gained experience in web development, from backend to frontend.
+### 🛍️ *Electro E-Commerce*
+- *Description*: An **E-commerce platform** project focused on creating an online store for electronics, currently under development.
+- *Tech Stack*: .NET, C#, Databases, SQL Server, LINQ, jQuery, HTML, CSS, JavaScript, Bootstrap.
+- *Problem Solved*: Creates a user-friendly platform to browse and purchase electronics online.
+- *Key Takeaway*: Gained experience in web development, from backend to frontend.
 
 ---
 
@@ -67,18 +67,18 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 
 ## 🎯 Goals
 
-- 🌟 **Master advanced concepts** in **Software Engineering** and **Networking**.
-- 🔧 Build **impactful, real-world applications** that solve real problems.
-- 🤝 Collaborate with amazing developers on **exciting projects**.
-- 📚 **Continuously learn** and grow as a developer.
+- 🌟 *Master advanced concepts* in *Software Engineering* and *Networking*.
+- 🔧 Build *impactful, real-world applications* that solve real problems.
+- 🤝 Collaborate with amazing developers on *exciting projects*.
+- 📚 *Continuously learn* and grow as a developer.
 
 ---
 
 ## 🧠 My Coding Philosophy
 
-- 📖 **"Code is like humor. When you have to explain it, it’s bad."**
-- 💡 **Learning through practice**: Solving problems and building real-world projects.
-- 💻 **Clean and efficient code** is always the goal!
+- 📖 *"Code is like humor. When you have to explain it, it’s bad."*
+- 💡 *Learning through practice*: Solving problems and building real-world projects.
+- 💻 *Clean and efficient code* is always the goal!
 
 ---
 
@@ -88,41 +88,22 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&width=100&height=30)](https://linkedin.com/in/abdalla-mahmoud-9264242b6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirovic707@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&width=100&height=30)](https://github.com/abdallasamir04)
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge&width=100&height=30)](https://x.com/abdallasamir04)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&width=100&height=30)](https://www.facebook.com/abdallasamir04)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&width=100&height=30)](https://t.me/abdallasamir04)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&width=100&height=30)](https://github.com/abdallasamir04)
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Contribution Graph -->
+<!-- These images will automatically update based on your GitHub activity -->
 <p align="center">
-  <a href="https://github.com/users/abdallasamir04/contributions">
-    <img src="https://ghchart.rshah.org/abdallasamir04" alt="Abdalla Samir's GitHub Contribution Graph" width="747"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Abdalla Samir GitHub Stats"/>
   <br/>
-  <a href="https://github.com/users/abdallasamir04/contributions"><em>View Detailed Contributions on GitHub</em></a>
-</p>
-<!-- End Contribution Graph -->
-
-<!-- Other Stats - Now Linked -->
-<p align="center">
-  <!-- Stats card linked to main profile or repositories -->
-  <a href="https://github.com/abdallasamir04?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Abdalla Samir's GitHub Stats"/>
-  </a>
-  <!-- Streak card linked to profile -->
-  <a href="https://github.com/abdallasamir04">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false" alt="Abdalla Samir's GitHub Streak"/>
-  </a>
-</p>
-<p align="center">
-  <!-- Languages card linked to repositories -->
-  <a href="https://github.com/abdallasamir04?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Abdalla Samir's Top Languages"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false" alt="Abdalla Samir GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Abdalla Samir Top Languages"/>
 </p>
 
 ---
@@ -136,7 +117,7 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 ## ✨ Let’s Collaborate!
 
 Feel free to explore my repositories, fork projects, or reach out for collaboration!  
-**Let’s debug life, one line of code at a time.** 🧑‍💻🔥
+*Let’s debug life, one line of code at a time.* 🧑‍💻🔥
 
 ---
 
