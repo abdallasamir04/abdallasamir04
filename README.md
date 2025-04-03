@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a *Software Engineering* student at the **Facu
 
 ---
 
-## 🛠 Projects I'm Working On
+## 🛠 Projects I'm Working On:
 
 ### 🖥 Operating Systems Project: Mini-FAT File System
 - **Description**: A simplified implementation of the FAT file system using **C#**, simulating a virtual disk and supporting file allocation tracking.
@@ -95,13 +95,21 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-[![Abdalla's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=dark)](https://github.com/abdallasamir04)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
-[![Abdalla's GitHub Progress](https://github-profile-summary-cards.vercel.app/api/cards/progress?username=abdallasamir04&theme=dark)](https://github.com/abdallasamir04)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📌 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 
 ---
