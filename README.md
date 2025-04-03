@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&width=100&height=30)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&width=100&height=30)
+![C#](https://img.shields.io/badge/c%23-%23800080.svg?style=for-the-badge&logo=csharp&logoColor=white&width=100&height=30)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&width=100&height=30)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&width=100&height=30)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&width=100&height=30)
