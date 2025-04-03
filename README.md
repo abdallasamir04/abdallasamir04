@@ -98,7 +98,7 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
