@@ -9,34 +9,34 @@ Welcome to my GitHub profile! I'm a *Software Engineering* student at the *Facul
 ## 🌟 About Me
 
 - 🎓 *Software Engineering Student* at *Assiut University*.
-- 💻 Passionate about *coding*, **problem-solving**, and **building real-world applications**.
+- 💻 Passionate about *coding, **problem-solving, and **building real-world applications*.
 - 🌱 Constantly learning and growing as a developer.
 - 🚀 Driven by curiosity and a desire to make an impact through technology.
 
 ---
 
-## 🛠️ Projects I'm Working On
+## 🛠 Projects I'm Working On
 
-### 🖥️ *Operating Systems Project: Mini-FAT File System*
-- *Description*: A simplified implementation of the FAT file system using **C#**, simulating a virtual disk and supporting file allocation tracking.
+### 🖥 *Operating Systems Project: Mini-FAT File System*
+- *Description: A simplified implementation of the FAT file system using **C#*, simulating a virtual disk and supporting file allocation tracking.
 - *Tech Stack*: C#, .NET, File System Design.
 - *Problem Solved*: Simulates a basic file system to understand how data management works on a low level.
 - *Key Takeaway*: Learned how the FAT system handles disk space management and allocation.
 
 ### 📐 *Geometric Object Area & Perimeter Calculator*
-- *Description*: A **Java-based** GUI application to calculate the area and perimeter of geometric shapes (circle, rectangle, square).
+- *Description: A **Java-based* GUI application to calculate the area and perimeter of geometric shapes (circle, rectangle, square).
 - *Tech Stack*: Java, GUI, Object-Oriented Programming.
 - *Problem Solved*: Makes calculations for various shapes easy to perform in a graphical user interface.
 - *Key Takeaway*: Learned how to implement inheritance and polymorphism in Java.
 
 ### 📝 *TO-DO List Application*
-- *Description*: A **C++** project using a linked list data structure to manage tasks, including add, remove, edit, and mark tasks as done.
+- *Description: A **C++* project using a linked list data structure to manage tasks, including add, remove, edit, and mark tasks as done.
 - *Tech Stack*: C++, Data Structures, Linked List.
 - *Problem Solved*: Efficient task management with easy-to-use command-line interface.
 - *Key Takeaway*: Strengthened understanding of linked lists and memory management in C++.
 
-### 🛍️ *Electro E-Commerce*
-- *Description*: An **E-commerce platform** project focused on creating an online store for electronics, currently under development.
+### 🛍 *Electro E-Commerce*
+- *Description: An **E-commerce platform* project focused on creating an online store for electronics, currently under development.
 - *Tech Stack*: .NET, C#, Databases, SQL Server, LINQ, jQuery, HTML, CSS, JavaScript, Bootstrap.
 - *Problem Solved*: Creates a user-friendly platform to browse and purchase electronics online.
 - *Key Takeaway*: Gained experience in web development, from backend to frontend.
@@ -97,14 +97,9 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 
 ## 📊 GitHub Stats
 
-<!-- These images automatically update based on your GitHub account and repositories -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Abdalla Samir GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false" alt="Abdalla Samir GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Abdalla Samir Top Languages"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
