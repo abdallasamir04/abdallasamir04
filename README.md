@@ -97,21 +97,12 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 
 ## 📊 GitHub Stats
 
-<!-- These images automatically update based on your GitHub account (abdallasamir04) and repositories -->
-<!-- Main Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Abdalla Samir GitHub Stats"/>
-</p>
+![Abdalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<!-- Streak Stats Card -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false" alt="Abdalla Samir GitHub Streak"/>
-</p>
+![Abdalla's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false)
 
-<!-- Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Abdalla Samir Top Languages"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
