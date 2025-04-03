@@ -100,8 +100,7 @@ Welcome to my GitHub profile! I'm a *Software Engineering* student at the **Facu
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=dark" style="max-width: 800px; height: auto;" />
 </p>
-
-<div style="display: flex; justify-content: center; gap: 35px;">
+<div style="display: flex; justify-content: center; gap: 35 px;">
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdallasamir04&theme=dark" />
