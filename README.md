@@ -97,9 +97,9 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 
 ## 📊 GitHub Stats
 
-![Abdalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![Abdalla's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=dark)](https://github.com/abdallasamir04)
 
-![Abdalla's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=dark&hide_border=false)
+[![Abdalla's GitHub Progress](https://github-profile-summary-cards.vercel.app/api/cards/progress?username=abdallasamir04&theme=dark)](https://github.com/abdallasamir04)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
