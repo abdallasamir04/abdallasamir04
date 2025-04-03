@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I'm a *Software Engineering* student at the **Facu
 
 ## 🌐 Socials
 
-Let's connect! Feel free to reach out or follow me on these platforms:
+**Let's connect! Feel free to reach out or follow me on these platforms:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&width=100&height=30)](https://linkedin.com/in/abdalla-mahmoud-9264242b6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirovic707@gmail.com)  
@@ -98,11 +98,11 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 
