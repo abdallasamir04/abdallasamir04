@@ -100,7 +100,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 <!-- Main Stats Card - Centered -->
 <p align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&locale=en" alt="abdallasamir04" /></p>
->
+
 </p>
 <div style="display: flex; justify-content: space-between= 50; width: 100%;">
   <!-- Added width: 100%; -->
