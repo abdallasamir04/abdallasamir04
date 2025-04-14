@@ -108,7 +108,10 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 .............................<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdallasamir04&theme=dark" alt="Top Languages by Commit"/>
 </div>
 
+---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&" alt="abdallasamir04" /></p>
+
 ---
 
 ## 🏆 GitHub Trophies
