@@ -101,6 +101,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=dark" alt="Abdalla Samir Stats Summary" style="max-width: 800px; height: auto;" />
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallasamir04&show_icons=true&locale=en&layout=compact" alt="abdallasamir04" /></p>
 
 <div style="display: flex; justify-content: space-between= 50; width: 100%;">
   <!-- Added width: 100%; -->
@@ -109,13 +110,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 </div>
 
 ---
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallasamir04&show_icons=true&locale=en&layout=compact" alt="abdallasamir04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&locale=en" alt="abdallasamir04" /></p>
 
