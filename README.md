@@ -101,13 +101,9 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 <p align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&locale=en" alt="abdallasamir04" /></p>
 
-</p>
-<div style="display: flex; justify-content: space-between= 50; width: 100%;">
-  <!-- Added width: 100%; -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=dark" alt="Top Languages by Repo"/>        
-.............................<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdallasamir04&theme=dark" alt="Top Languages by Commit"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&locale=en" alt="abdallasamir04" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&" alt="abdallasamir04" /></p>
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&" alt="abdallasamir04" /></p>
