@@ -4,7 +4,6 @@
 
 Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Faculty of Computer Science & Artificial Intelligence (FCAI)**. I'm passionate about coding, building innovative solutions, and contributing to the tech community. Let's create something amazing together! 💻✨
 
----
 
 ## 🌟 About Me
 
