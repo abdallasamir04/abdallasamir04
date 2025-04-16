@@ -6,11 +6,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 
 ---
 
-<img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg" alt="Snake animation" />
-
-
----
-
 ## 🌟 About Me
 
 - 🎓 **Software Engineering Student** at **Assiut University**.
