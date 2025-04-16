@@ -5,6 +5,7 @@
 Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Faculty of Computer Science & Artificial Intelligence (FCAI)**. I'm passionate about coding, building innovative solutions, and contributing to the tech community. Let's create something amazing together! 💻✨
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/pacman-contribution-graph.svg">
@@ -22,6 +23,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 <img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg" alt="Snake animation" />
 
 ###
+
 ---
 
 ## 🌟 About Me
