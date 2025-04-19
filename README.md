@@ -35,6 +35,12 @@ Welcome to my GitHub profile! I'm a **Software Engineering** student at the **Fa
 - **Problem Solved**: Efficient task management with easy-to-use command-line interface.
 - **Key Takeaway**: Strengthened understanding of linked lists and memory management in C++.
 
+### 📝 **Samir List - Task Management App**
+- **Description**: A **Python-based** web application that allows users to manage tasks by adding, updating, and deleting them. Tasks can be categorized as active or completed.
+- **Tech Stack**: Python, Flask, HTML, CSS, JavaScript, SQLAlchemy.
+- **Problem Solved**: Provides users with a simple and effective way to organize and track their tasks.
+- **Key Takeaway**: Strengthened understanding of web development, including database integration, routing, and user authentication. Gained hands-on experience with Flask and SQLAlchemy.
+
 ### 🛍 Electro E-Commerce
 - **Description**: An E-commerce platform* project focused on creating an online store for electronics, currently under development.
 - **Tech Stack**: .NET, C#, Databases, SQL Server, LINQ, jQuery, HTML, CSS, JavaScript, Bootstrap.
