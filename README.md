@@ -5,7 +5,6 @@
     alt="Typing introduction" />
 </p>
 
-
 I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
 
 ---
@@ -73,25 +72,20 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 </p>
 
 ---
-
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="36" height="36" alt="LinkedIn" />
+    <img src="NEW_LINKEDIN_ICON_URL" width="36" height="36" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:samirovic707@gmail.com" title="Email">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="36" height="36" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="36" height="36" alt="X/Twitter" />
+    <img src="NEW_GMAIL_ICON_URL" width="36" height="36" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="36" height="36" alt="Telegram" />
+    <img src="NEW_TELEGRAM_ICON_URL" width="36" height="36" alt="Telegram" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="36" height="36" alt="Facebook" />
+    <img src="NEW_FACEBOOK_ICON_URL" width="36" height="36" alt="Facebook" />
   </a>
 </p>
-
 
 ---
