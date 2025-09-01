@@ -80,9 +80,6 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
   <a href="mailto:samirovic707@gmail.com" title="Email">
     <img src="https://www.svgrepo.com/svg/468988/gmail" width="36" height="36" alt="Email" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
-    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/X_Twitter_icon.svg" width="36" height="36" alt="X (Twitter)" />
-  </a>&nbsp;&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
     <img src="https://www.svgrepo.com/svg/324157/telegram-icon-chat-oneline" width="36" height="36" alt="Telegram" />
   </a>&nbsp;&nbsp;
@@ -90,6 +87,5 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
     <img src="https://www.svgrepo.com/svg/494341/facebook" width="36" height="36" alt="Facebook" />
   </a>
 </p>
-
 
 ---
