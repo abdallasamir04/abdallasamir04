@@ -1,4 +1,4 @@
-<!-- Header: Typing SVG (Dark, loops) -->
+<!-- Header: Typing SVG (loops) -->
 <p align="right">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2200&pause=1100&color=00C6FF&width=780&center=false&vCenter=true&repeat=true&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20Abdalla%20Samir;%F0%9F%9A%80%20Software%20Engineering%20Student;%F0%9F%92%BB%20Software%20Developer;%F0%9F%8C%8D%20Tech%20Enthusiast" 
@@ -7,7 +7,7 @@
 
 ---
 ## 🌟 About Me
-I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**.
+I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
 
 ---
 
@@ -16,8 +16,7 @@ I am a **Software Engineering student at Assiut University** focused on building
 ### 🛍 **Electro E‑Commerce**
 A complete **e‑commerce platform** for electronics.  
 **Tech:** .NET, C#, SQL Server, LINQ, jQuery, Bootstrap, HTML, CSS, JavaScript  
-**Highlights:** Product catalog, cart, checkout • 
-**🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
+**Highlights:** Product catalog, cart, checkout • **🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
 
 ---
 
@@ -62,6 +61,16 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
@@ -79,14 +88,3 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg">
-</picture>
-
----
-
-<sub>Tip: If any image doesn’t update in dark mode, hard refresh your profile or append <code>?cacheBust=1</code> to the image URL.</sub>
