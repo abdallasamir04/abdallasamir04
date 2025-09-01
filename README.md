@@ -1,12 +1,11 @@
-<!-- Header: Typing SVG (RTL, plays once) -->
+<!-- Header: Typing SVG (plays once) -->
 <p align="right">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=1100&color=00C6FF&width=780&center=false&vCenter=true&repeat=false&rtl=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast" 
+    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2200&pause=1100&color=00C6FF&width=780&center=false&vCenter=true&repeat=false&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20Abdalla%20Samir;%F0%9F%9A%80%20Software%20Engineering%20Student;%F0%9F%92%BB%20Software%20Developer;%F0%9F%8C%8D%20Tech%20Enthusiast" 
     alt="Typing introduction" />
 </p>
 
 ---
-
 ## 🌟 About Me
 I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. I enjoy shipping practical solutions end‑to‑end — from database design to clean UIs.  
 I care about **readable code, small iterations, and learning by building**. Interests: full‑stack **.NET**, **Python/Flask**, and **operating systems**.
@@ -81,4 +80,4 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 
 ---
 
-<sub>Tip: If the typing header doesn’t start from the right on your profile, the service may be using an older deployment. Keep the block right‑aligned as above, or self‑host the Typing SVG.</sub>
+<sub>Tip: If the typing header still doesn’t show, GitHub may have cached the previous broken URL. Try a hard refresh, or change `&cacheBust=1` (any number) at the end of the image URL.</sub>
