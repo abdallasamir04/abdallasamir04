@@ -79,19 +79,19 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="36" height="36" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:samirovic707@gmail.com" title="Email">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="36" height="36" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/abdallasamir04" title="Twitter / X">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="36" height="36" alt="Twitter/X" />
+  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
+    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" height="40" alt="X/Twitter" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="36" height="36" alt="Telegram" />
+    <img src="https://img.icons8.com/color/48/telegram-app.png" width="40" height="40" alt="Telegram" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="36" height="36" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/facebook.png" width="40" height="40" alt="Facebook" />
   </a>
 </p>
 
