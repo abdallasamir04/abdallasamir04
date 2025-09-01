@@ -5,7 +5,6 @@
     alt="Typing introduction" />
 </p>
 
----
 
 I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
 
