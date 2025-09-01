@@ -1,4 +1,4 @@
-readme = """<!-- Header: Typing SVG (RTL, plays once) -->
+<!-- Header: Typing SVG (RTL, plays once) -->
 <p align="right">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=1100&color=00C6FF&width=780&center=false&vCenter=true&repeat=false&rtl=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast" 
@@ -82,7 +82,7 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ---
 
 <sub>Tip: If the typing header doesn’t start from the right on your profile, the service may be using an older deployment. Keep the block right‑aligned as above, or self‑host the Typing SVG.</sub>
-"""
+
 
 path = "/mnt/data/README.md"
 with open(path, "w", encoding="utf-8") as f:
