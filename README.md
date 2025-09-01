@@ -16,7 +16,8 @@ I am a **Software Engineering student at Assiut University** focused on building
 ### 🛍 **Electro E‑Commerce**
 A complete **e‑commerce platform** for electronics.  
 **Tech:** .NET, C#, SQL Server, LINQ, jQuery, Bootstrap, HTML, CSS, JavaScript  
-**Highlights:** Product catalog, cart, checkout • **🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
+**Highlights:** Product catalog, cart, checkout • 
+**🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
 
 ---
 
