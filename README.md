@@ -82,10 +82,3 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ---
 
 <sub>Tip: If the typing header doesn’t start from the right on your profile, the service may be using an older deployment. Keep the block right‑aligned as above, or self‑host the Typing SVG.</sub>
-
-
-path = "/mnt/data/README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(readme)
-
-path
