@@ -1,71 +1,91 @@
-# 👋 Hi, I'm Abdalla Samir  
-
-<div align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>  
-</div>  
-
-<h3 align="center">🚀 Software Engineering Student | Developer | Tech Enthusiast</h3>  
-
----
-
-## 🌟 About Me  
-
-I’m a **Software Engineering student at Assiut University** who loves building real-world projects, solving problems, and always learning.  
+readme = """<!-- Header: Typing SVG (RTL, plays once) -->
+<p align="right">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=1100&color=00C6FF&width=780&center=false&vCenter=true&repeat=false&rtl=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast" 
+    alt="Typing introduction" />
+</p>
 
 ---
 
-## 🛠 Projects  
-
-### 🛍 Electro E-Commerce  
-**[🔗 Repository](https://github.com/abdallasamir04/Electro-E-Commerce)**  
-A complete **E-Commerce platform** for electronics.  
-- Tech Stack: .NET, C#, SQL Server, LINQ, jQuery, Bootstrap, HTML, CSS, JavaScript  
-- Features: product browsing, cart management, checkout flow  
-- 🏆 **Achievement:**  
-  <span style="color:#ff9800; font-weight:bold;">🥉 Won 3rd Place</span> in **DEPI Full Stack .NET Web Developer** Graduation Projects  
+## 🌟 About Me
+I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. I enjoy shipping practical solutions end‑to‑end — from database design to clean UIs.  
+I care about **readable code, small iterations, and learning by building**. Interests: full‑stack **.NET**, **Python/Flask**, and **operating systems**.
 
 ---
 
-### 🖥 Mini-FAT File System  
-Simulated FAT file system using **C#/.NET** to learn low-level disk management.  
+## 🛠 Projects
 
-### 📐 Geometric Object Calculator  
-Java GUI app for area/perimeter of shapes, applying **OOP principles**.  
-
-### 📝 To-Do List (C++)  
-Command-line task manager built with **Linked List** data structure.  
-
-### 📝 Samir List – Task Management Web App  
-Task management app using **Flask + SQLAlchemy**, with user-friendly task categories.  
+### 🛍 **Electro E‑Commerce**
+A complete **e‑commerce platform** for electronics.  
+**Tech:** .NET, C#, SQL Server, LINQ, jQuery, Bootstrap, HTML, CSS, JavaScript  
+**Highlights:** Product catalog, cart, checkout • **🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
 
 ---
 
-## 💡 Skills  
-
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap,mysql,git,github,vscode,figma&perline=8" />  
-</p>  
+### 🖥 **Mini‑FAT File System**
+A simplified FAT file system simulation in **C#/.NET**, exploring virtual disks and allocation tracking.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="160" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical" height="160" />  
-</p>  
+### 📐 **Geometric Object Calculator**
+A **Java GUI** app to calculate area & perimeter of shapes (circle, rectangle, square), applying **OOP principles**.
 
 ---
 
-## 🌐 Connect  
-
-<p align="center">  
-  <a href="https://linkedin.com/in/abdalla-mahmoud-9264242b6"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="mailto:samirovic707@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-  <a href="https://x.com/abdallasamir04"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>  
-  <a href="https://t.me/abdallasamir04"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>  
-</p>  
+### ✅ **To‑Do List (C++)**
+Command‑line task manager built with a **linked‑list** data structure; focused on data structures and memory management.
 
 ---
 
-✨ *Always learning, always building.*  
+### 📝 **Samir List — Task Management Web App**
+A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with active/completed views and a simple UI.
+
+---
+
+## 💡 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap,mysql,git,github,vscode,figma&perline=8" alt="Tech stack icons" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical" height="160" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:samirovic707@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X/Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/abdallasamir04" title="Telegram">
+    <img src="https://skillicons.dev/icons?i=telegram" height="32" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+<sub>Tip: If the typing header doesn’t start from the right on your profile, the service may be using an older deployment. Keep the block right‑aligned as above, or self‑host the Typing SVG.</sub>
+"""
+
+path = "/mnt/data/README.md"
+with open(path, "w", encoding="utf-8") as f:
+    f.write(readme)
+
+path
