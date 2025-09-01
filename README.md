@@ -79,3 +79,14 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg">
+</picture>
+
+---
+
+<sub>Note: If the snake image is blank or 404, run the "Generate Snake" action once from the Actions tab and ensure Settings → Actions → Workflow permissions = "Read and write".</sub>
