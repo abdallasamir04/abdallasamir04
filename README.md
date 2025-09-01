@@ -42,8 +42,15 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ---
 
 ## 💡 Skills
+
+<!-- Row 1: Languages & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap,mysql,git,github,vscode,figma&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap&perline=11" alt="Languages and frameworks" />
+</p>
+
+<!-- Row 2: Databases & Tools (includes Visual Studio, PyCharm, IntelliJ IDEA, CLion, SQL stack) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,clion,figma&perline=12" alt="Databases and tools" />
 </p>
 
 ---
@@ -72,19 +79,19 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:samirovic707@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
   <a href="https://x.com/abdallasamir04" title="X (Twitter)">
-    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X/Twitter" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="32" alt="Telegram" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>&nbsp;
   <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
