@@ -5,9 +5,7 @@
     alt="Typing introduction" />
 </p>
 
----
 
-## 🌟 About Me
 I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
 
 ---
@@ -79,19 +77,19 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:samirovic707@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
   <a href="https://x.com/abdallasamir04" title="X (Twitter)">
-    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" height="40" alt="X/Twitter" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="https://img.icons8.com/color/48/telegram-app.png" width="40" height="40" alt="Telegram" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-%20-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>&nbsp;
   <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="https://img.icons8.com/color/48/facebook.png" width="40" height="40" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
