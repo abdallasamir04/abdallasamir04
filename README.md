@@ -1,4 +1,4 @@
-<!-- Header: Typing SVG (plays once) -->
+<!-- Header: Typing SVG (Dark, loops) -->
 <p align="right">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2200&pause=1100&color=00C6FF&width=780&center=false&vCenter=true&repeat=true&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20Abdalla%20Samir;%F0%9F%9A%80%20Software%20Engineering%20Student;%F0%9F%92%BB%20Software%20Developer;%F0%9F%8C%8D%20Tech%20Enthusiast" 
@@ -7,7 +7,7 @@
 
 ---
 ## 🌟 About Me
-I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
+I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**.
 
 ---
 
@@ -50,14 +50,14 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=github_dark" height="160" alt="GitHub stats (dark)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=github-dark" height="160" alt="GitHub streak (dark)" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=github_dark&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages (dark)" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution activity graph (dark)" />
 </p>
 
 ---
@@ -89,4 +89,4 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 
 ---
 
-<sub>Note: If the snake image is blank or 404, run the "Generate Snake" action once from the Actions tab and ensure Settings → Actions → Workflow permissions = "Read and write".</sub>
+<sub>Tip: If any image doesn’t update in dark mode, hard refresh your profile or append <code>?cacheBust=1</code> to the image URL.</sub>
