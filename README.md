@@ -6,21 +6,21 @@
 </p>
 
 ---
-## 🌟 About Me
+
 I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
 
 ---
 
 ## 🛠 Projects
 
-### 🛍 **Electro E‑Commerce**
-A complete **e‑commerce platform** for electronics.  
+### 🛍 **Electro E-Commerce**
+A complete **e-commerce platform** for electronics.  
 **Tech:** .NET, C#, SQL Server, LINQ, jQuery, Bootstrap, HTML, CSS, JavaScript  
 **Highlights:** Product catalog, cart, checkout • **🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
 
 ---
 
-### 🖥 **Mini‑FAT File System**
+### 🖥 **Mini-FAT File System**
 A simplified FAT file system simulation in **C#/.NET**, exploring virtual disks and allocation tracking.
 
 ---
@@ -30,8 +30,8 @@ A **Java GUI** app to calculate area & perimeter of shapes (circle, rectangle, s
 
 ---
 
-### ✅ **To‑Do List (C++)**
-Command‑line task manager built with a **linked‑list** data structure; focused on data structures and memory management.
+### ✅ **To-Do List (C++)**
+Command-line task manager built with a **linked-list** data structure; focused on data structures and memory management.
 
 ---
 
@@ -78,6 +78,12 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
   </a>&nbsp;&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
     <img src="https://skillicons.dev/icons?i=telegram" height="32" alt="Telegram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
+    <img src="https://skillicons.dev/icons?i=facebook" height="32" alt="Facebook" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X/Twitter" />
   </a>
 </p>
 
