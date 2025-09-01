@@ -49,22 +49,21 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=github_dark" height="160" alt="GitHub stats (dark)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=github-dark" height="160" alt="GitHub streak (dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical" height="160" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=github_dark&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages (dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution activity graph (dark)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img alt="github contribution snake (dark)"
-       src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg?palette=github-dark&cacheBust=1">
+  <img alt="github contribution snake (light)" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg?cacheBust=1">
 </p>
 
 ---
@@ -76,9 +75,6 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
   </a>&nbsp;&nbsp;
   <a href="mailto:samirovic707@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
-    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X/Twitter" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
     <img src="https://skillicons.dev/icons?i=telegram" height="32" alt="Telegram" />
