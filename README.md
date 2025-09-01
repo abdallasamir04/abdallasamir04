@@ -63,10 +63,8 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg">
-  </picture>
+  <img alt="github contribution snake (dark)"
+       src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg?palette=github-dark&cacheBust=1">
 </p>
 
 ---
