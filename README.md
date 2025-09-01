@@ -14,7 +14,8 @@ I am a **Software Engineering student at Assiut University** focused on building
 ### 🛍 **Electro E-Commerce**
 A complete **e-commerce platform** for electronics.  
 **Tech:** .NET, C#, SQL Server, LINQ, jQuery, Bootstrap, HTML, CSS, JavaScript  
-**Highlights:** Product catalog, cart, checkout • **🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
+**Highlights:** Product catalog, cart, checkout  
+**🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
 
 ---
 
@@ -72,23 +73,31 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 </p>
 
 ---
+
 ## 🌐 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" height="40" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:samirovic707@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
-    <img src="https://img.icons8.com/fluency/48/twitter-circled.png" width="40" height="40" alt="X/Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" height="40" alt="Telegram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="40" height="40" alt="Facebook" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
+        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" height="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:samirovic707@gmail.com" title="Email">
+        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/abdallasamir04" title="Telegram">
+        <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" height="40" alt="Telegram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
+        <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="40" height="40" alt="Facebook" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
