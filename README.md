@@ -77,20 +77,21 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="36" height="36" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:samirovic707@gmail.com" title="Email">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="40" alt="Email" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="36" height="36" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/abdallasamir04" title="X (Twitter)">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" alt="X/Twitter" />
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="36" height="36" alt="X/Twitter" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" width="40" height="40" alt="Telegram" />
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="36" height="36" alt="Telegram" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook" />
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="36" height="36" alt="Facebook" />
   </a>
 </p>
+
 
 ---
