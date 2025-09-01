@@ -75,17 +75,21 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-    <img src="NEW_LINKEDIN_ICON_URL" width="36" height="36" alt="LinkedIn" />
+    <img src="https://www.svgrepo.com/svg/157006/linkedin" width="36" height="36" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:samirovic707@gmail.com" title="Email">
-    <img src="NEW_GMAIL_ICON_URL" width="36" height="36" alt="Email" />
+    <img src="https://www.svgrepo.com/svg/468988/gmail" width="36" height="36" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/abdallasamir04" title="X (Twitter)">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/X_Twitter_icon.svg" width="36" height="36" alt="X (Twitter)" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="NEW_TELEGRAM_ICON_URL" width="36" height="36" alt="Telegram" />
+    <img src="https://www.svgrepo.com/svg/324157/telegram-icon-chat-oneline" width="36" height="36" alt="Telegram" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="NEW_FACEBOOK_ICON_URL" width="36" height="36" alt="Facebook" />
+    <img src="https://www.svgrepo.com/svg/494341/facebook" width="36" height="36" alt="Facebook" />
   </a>
 </p>
+
 
 ---
