@@ -5,7 +5,9 @@
     alt="Typing introduction" />
 </p>
 
+---
 
+## 🌟 About Me
 I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
 
 ---
@@ -75,14 +77,14 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
   <a href="mailto:samirovic707@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/abdallasamir04" title="Telegram">
-    <img src="https://skillicons.dev/icons?i=telegram" height="32" alt="Telegram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-    <img src="https://skillicons.dev/icons?i=facebook" height="32" alt="Facebook" />
-  </a>&nbsp;&nbsp;
   <a href="https://x.com/abdallasamir04" title="X (Twitter)">
     <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X/Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/abdallasamir04" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="32" alt="Telegram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook" />
   </a>
 </p>
 
