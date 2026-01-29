@@ -56,7 +56,7 @@ A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.deno.dev/?user=abdallasamir04&theme=radical" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=radical" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
