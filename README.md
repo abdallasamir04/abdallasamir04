@@ -77,23 +77,23 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400"
     height="165"
-    alt="GitHub stats"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical"
     height="165"
-    alt="GitHub streak"
   />
 </p>
 
+
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8"
-    alt="Top languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true"
   />
 </p>
+>
 
 <p align="center">
   <img
@@ -103,15 +103,15 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg"
     alt="GitHub contribution snake"
   />
 </p>
+
 
 ---
 
