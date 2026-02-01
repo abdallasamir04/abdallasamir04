@@ -143,7 +143,7 @@ A lightweight **task management web application** for organizing daily work.
       </a>
     </td>
     <td align="center">
-      <a href="https://discord.com/users/doodz__">
+      <a href="https://discord.com/users/jupyter_notebook">
         <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
       </a>
     </td>
