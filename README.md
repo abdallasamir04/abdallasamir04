@@ -100,21 +100,17 @@ A lightweight **task management web application** for organizing daily work.
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=transparent&show_icons=true&hide_border=true&rank_icon=github" alt="Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=transparent&hide_border=true" alt="Streak" />
-</div>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=transparent&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
+<p align="center">
+  <!-- Stats Card: Using an alternative API endpoint -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="165" alt="GitHub Stats" />
+  
+  <!-- Streak Stats Card: This one already works for you -->
+  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <!-- Top Languages Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    height="160"
-  />
+  <!-- Top Languages Card: Using an alternative endpoint -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
