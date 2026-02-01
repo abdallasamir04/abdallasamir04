@@ -1,105 +1,172 @@
-<!-- Header: Typing SVG (loops) -->
-<p align="right">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2200&pause=1100&color=00C6FF&width=780&center=false&vCenter=true&repeat=true&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20Abdalla%20Samir;%F0%9F%9A%80%20Software%20Engineering%20Student;%F0%9F%92%BB%20Software%20Developer;%F0%9F%8C%8D%20Tech%20Enthusiast" 
-    alt="Typing introduction" />
+<!-- ========================= -->
+<!-- Header: Typing SVG -->
+<!-- ========================= -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=700&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
+    alt="Typing introduction"
+  />
 </p>
 
-I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**. 
+---
+
+### 👨‍💻 About Me
+I am a **Software Engineering student at Assiut University** with a strong interest in building **clean, scalable, and reliable software systems**.  
+I enjoy turning ideas into real applications while applying **OOP, data structures, and software engineering principles**.
 
 ---
 
-## 🛠 Projects
+## 🛠 Featured Projects
 
-### 🛍 **Electro E-Commerce**
-A complete **e-commerce platform** for electronics.  
-**Tech:** .NET, C#, SQL Server, LINQ, jQuery, Bootstrap, HTML, CSS, JavaScript  
-**Highlights:** Product catalog, cart, checkout  
-**🏆 3rd Place — DEPI Full Stack .NET Graduation Projects**
+### 🛍 **Electro E-Commerce Platform**
+A **full-stack e-commerce system** designed for selling electronic products, focusing on performance, usability, and clean architecture.
+
+**Tech Stack:**  
+`.NET` · `C#` · `SQL Server` · `LINQ` · `jQuery` · `Bootstrap` · `HTML` · `CSS` · `JavaScript`
+
+**Key Features:**
+- Secure product catalog & categories  
+- Shopping cart & checkout workflow  
+- Clean UI with responsive design  
+- Database-driven architecture  
+
+<p align="center">
+  <strong style="font-size:18px;">🏆 🥉 THIRD PLACE — DEPI Full Stack .NET Graduation Projects</strong>
+</p>
 
 ---
 
-### 🖥 **Mini-FAT File System**
-A simplified FAT file system simulation in **C#/.NET**, exploring virtual disks and allocation tracking.
+### 🖥 **Mini-FAT File System (OS Project)**
+A **custom FAT-like file system simulation** built from scratch to understand low-level storage concepts.
+
+**Highlights:**
+- Virtual disk creation  
+- File allocation tracking  
+- Directory and file management  
+- Strong focus on **Operating Systems concepts**
+
+**Tech:** `C#` · `.NET`
 
 ---
 
 ### 📐 **Geometric Object Calculator**
-A **Java GUI** app to calculate area & perimeter of shapes (circle, rectangle, square), applying **OOP principles**.
+A **Java GUI application** for calculating area and perimeter of geometric shapes.
+
+**Concepts Applied:**
+- Object-Oriented Programming (OOP)  
+- Inheritance & polymorphism  
+- Clean separation between logic & UI  
+
+**Tech:** `Java` · `Swing`
 
 ---
 
-### ✅ **To-Do List (C++)**
-Command-line task manager built with a **linked-list** data structure; focused on data structures and memory management.
+### ✅ **To-Do List (Data Structures – C++)**
+A **command-line task management system** implemented using a **linked list**.
+
+**Focus Areas:**
+- Dynamic memory management  
+- CRUD operations  
+- Practical use of data structures  
+
+**Tech:** `C++`
 
 ---
 
 ### 📝 **Samir List — Task Management Web App**
-A **Flask + SQLAlchemy** web app for organizing tasks (add/update/delete), with active/completed views and a simple UI.
+A lightweight **task management web application** for organizing daily work.
+
+**Features:**
+- Add, update, delete tasks  
+- Active & completed task views  
+- Simple and clean user interface  
+
+**Tech:** `Python` · `Flask` · `SQLAlchemy` · `SQLite`
 
 ---
 
 ## 💡 Skills
 
-<!-- Row 1: Languages & Frameworks -->
+<!-- Languages & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap&perline=11" alt="Languages and frameworks" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap&perline=11"
+    alt="Languages and frameworks"
+  />
 </p>
 
-<!-- Row 2: Databases & Tools (includes Visual Studio, PyCharm, IntelliJ IDEA, CLion, SQL stack) -->
+<!-- Databases & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,clion,figma&perline=12" alt="Databases and tools" />
+  <img
+    src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,clion,figma&perline=12"
+    alt="Databases and tools"
+  />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&v=1" height="160" alt="GitHub streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true&radius=8"
+    alt="Contribution graph"
+  />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img alt="github contribution snake (light)" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg?cacheBust=1">
+  <img
+    src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg"
+    alt="GitHub contribution snake"
+  />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
+
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6" title="LinkedIn">
-        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" height="40" alt="LinkedIn" />
+      <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
+        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" />
       </a>
     </td>
     <td align="center">
-      <a href="mailto:samirovic707@gmail.com" title="Email">
-        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
+      <a href="mailto:samirovic707@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/abdallasamir04" title="Telegram">
-        <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" height="40" alt="Telegram" />
+      <a href="https://t.me/abdallasamir04">
+        <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" />
       </a>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/abdallasamir04" title="Facebook">
-        <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="40" height="40" alt="Facebook" />
+      <a href="https://www.facebook.com/abdallasamir04">
+        <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="40" />
       </a>
     </td>
   </tr>
 </table>
-
----
