@@ -1,18 +1,16 @@
-<!-- ========================= -->
-<!-- Header: Typing SVG -->
-<!-- ========================= -->
-<p align="center">
+<div align="right">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=700&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=620&center=false&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
     alt="Typing introduction"
   />
-</p>
+</div>
 
----
 
-I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**.
+### 👨‍💻 About Me
+I am a **Software Engineering student at Assiut University** with a strong interest in building **clean, scalable, and reliable software systems**.  
+I enjoy turning ideas into real applications while applying **OOP, data structures, and software engineering principles**.
 
----
+
 
 ## 🛠 Projects
 
