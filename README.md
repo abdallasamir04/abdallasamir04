@@ -92,16 +92,16 @@ A lightweight **task management web application** for organizing daily work.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical" height="165" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true&radius=8" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
