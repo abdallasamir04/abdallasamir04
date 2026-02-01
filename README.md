@@ -10,13 +10,11 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a **Software Engineering student at Assiut University** with a strong interest in building **clean, scalable, and reliable software systems**.  
-I enjoy turning ideas into real applications while applying **OOP, data structures, and software engineering principles**.
+I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**.
 
 ---
 
-## 🛠 Featured Projects
+## 🛠 Projects
 
 ### 🛍 **Electro E-Commerce Platform**
 A **full-stack e-commerce system** designed for selling electronic products, focusing on performance, usability, and clean architecture.
@@ -111,10 +109,12 @@ A lightweight **task management web application** for organizing daily work.
   <img
     src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400"
     height="165"
+    alt="GitHub stats"
   />
   <img
     src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
     height="165"
+    alt="GitHub streak"
   />
 </p>
 
@@ -122,6 +122,7 @@ A lightweight **task management web application** for organizing daily work.
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8"
     height="160"
+    alt="Top languages"
   />
 </p>
 
@@ -135,6 +136,7 @@ A lightweight **task management web application** for organizing daily work.
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg"
@@ -144,28 +146,28 @@ A lightweight **task management web application** for organizing daily work.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
-        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" />
+        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" alt="LinkedIn" />
       </a>
     </td>
     <td align="center">
       <a href="mailto:samirovic707@gmail.com">
-        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
+        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email" />
       </a>
     </td>
     <td align="center">
       <a href="https://t.me/abdallasamir04">
-        <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" />
+        <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" alt="Telegram" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.facebook.com/abdallasamir04">
-        <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="40" />
+        <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="40" alt="Facebook" />
       </a>
     </td>
   </tr>
