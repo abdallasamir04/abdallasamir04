@@ -100,18 +100,14 @@ A lightweight **task management web application** for organizing daily work.
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-  />
-  <!-- Streak Stats Card -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical&hide_border=true"
-    height="165"
-  />
-</p>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&theme=transparent&show_icons=true&hide_border=true&rank_icon=github" alt="Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=transparent&hide_border=true" alt="Streak" />
+</div>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&theme=transparent&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
 <p align="center">
   <!-- Top Languages Card -->
