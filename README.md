@@ -91,13 +91,6 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true"
-  />
-</p>
->
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true"
     alt="Contribution graph"
   />
 </p>
