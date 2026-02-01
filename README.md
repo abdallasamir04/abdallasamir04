@@ -77,15 +77,16 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
     height="165"
+    alt="GitHub stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical"
+    src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical&hide_border=true"
     height="165"
+    alt="GitHub streak"
   />
 </p>
-
 
 
 <p align="center">
