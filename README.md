@@ -1,6 +1,3 @@
-<!-- ========================= -->
-<!-- Header: Typing SVG -->
-<!-- ========================= -->
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
@@ -76,13 +73,10 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
     width="420"
     alt="GitHub Stats"
   />
-</p>
-
-<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true"
     width="420"
@@ -92,9 +86,16 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=6&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=6"
     width="420"
     alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 
