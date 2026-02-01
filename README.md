@@ -11,45 +11,74 @@ I am a **Software Engineering student at Assiut University** focused on building
 
 ---
 
-## 🛠 Projects
+## Projects
 
-### 🛍 **Electro E-Commerce**
-A complete **e-commerce platform** for electronics.
+### 🛍 **Electro E-Commerce Platform**
+A **full-stack e-commerce system** designed for selling electronic products, focusing on performance, usability, and clean architecture.
 
-**Tech:**  
-.NET · C# · SQL Server · LINQ · jQuery · Bootstrap · HTML · CSS · JavaScript  
+**Tech Stack:**  
+`.NET` · `C#` · `SQL Server` · `LINQ` · `jQuery` · `Bootstrap` · `HTML` · `CSS` · `JavaScript`
 
-**Highlights:**
-- Product catalog & categories  
-- Shopping cart & checkout flow  
-- Responsive UI  
+**Key Features:**
+- Secure product catalog & categories  
+- Shopping cart & checkout workflow  
+- Clean UI with responsive design  
+- Database-driven architecture  
 
 <p align="center">
-  <strong>🏆 🥉 3rd Place — DEPI Full Stack .NET Graduation Projects</strong>
+  <strong style="font-size:18px;">🏆 🥉 THIRD PLACE — DEPI Full Stack .NET Graduation Projects</strong>
 </p>
 
 ---
 
-### 🖥 **Mini-FAT File System**
-A simplified FAT file system simulation in **C#/.NET**, exploring virtual disks and allocation tracking.
+### 🖥 **Mini-FAT File System (OS Project)**
+A **custom FAT-like file system simulation** built from scratch to understand low-level storage concepts.
+
+**Highlights:**
+- Virtual disk creation  
+- File allocation tracking  
+- Directory and file management  
+- Strong focus on **Operating Systems concepts**
+
+**Tech:** `C#` · `.NET`
 
 ---
 
 ### 📐 **Geometric Object Calculator**
-A **Java GUI** application to calculate area & perimeter of shapes (circle, rectangle, square) using **OOP principles**.
+A **Java GUI application** for calculating area and perimeter of geometric shapes.
+
+**Concepts Applied:**
+- Object-Oriented Programming (OOP)  
+- Inheritance & polymorphism  
+- Clean separation between logic & UI  
+
+**Tech:** `Java` · `Swing`
 
 ---
 
-### ✅ **To-Do List (C++)**
-Command-line task manager built with a **linked-list** data structure, focusing on data structures and memory management.
+### ✅ **To-Do List (Data Structures – C++)**
+A **command-line task management system** implemented using a **linked list**.
+
+**Focus Areas:**
+- Dynamic memory management  
+- CRUD operations  
+- Practical use of data structures  
+
+**Tech:** `C++`
 
 ---
 
 ### 📝 **Samir List — Task Management Web App**
-A **Flask + SQLAlchemy** web application for organizing tasks (add / update / delete), with active and completed views.
+A lightweight **task management web application** for organizing daily work.
+
+**Features:**
+- Add, update, delete tasks  
+- Active & completed task views  
+- Simple and clean user interface  
+
+**Tech:** `Python` · `Flask` · `SQLAlchemy` · `SQLite`
 
 ---
-
 ## 💡 Skills
 
 <!-- Languages & Frameworks -->
@@ -114,8 +143,7 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 
 
 ---
-
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <table align="center">
   <tr>
@@ -130,13 +158,8 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/abdallasamir04">
-        <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" alt="Telegram" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/abdallasamir04">
-        <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="40" alt="Facebook" />
+      <a href="https://discord.com/users/doodz__">
+        <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
       </a>
     </td>
   </tr>
