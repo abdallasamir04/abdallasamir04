@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast" alt="Typing introduction"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=%F0%9F%91%8B%20Hi,+I'm+Abdalla+Samir;%F0%9F%9A%80%20Software+Engineering+Student;%F0%9F%92%BB%20Software+Developer;%F0%9F%8C%8D%20Tech+Enthusiast" alt="Typing introduction">
 </p>
 
 ### 👨‍💻 About Me
