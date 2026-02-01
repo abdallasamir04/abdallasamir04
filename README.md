@@ -1,9 +1,10 @@
-<div align="right">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=620&center=false&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
     alt="Typing introduction"
   />
-</div>
+</p>
+
 
 
 ### 👨‍💻 About Me
