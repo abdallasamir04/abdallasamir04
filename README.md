@@ -72,31 +72,16 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
-    width="420"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true"
-    width="420"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=6"
-    width="420"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 
