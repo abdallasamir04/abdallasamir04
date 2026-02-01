@@ -11,7 +11,7 @@ I am a **Software Engineering student at Assiut University** focused on building
 
 ---
 
-## Projects
+## 🛠 Projects
 
 ### 🛍 **Electro E-Commerce Platform**
 A **full-stack e-commerce system** designed for selling electronic products, focusing on performance, usability, and clean architecture.
