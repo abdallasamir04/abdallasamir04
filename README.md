@@ -100,24 +100,18 @@ A lightweight **task management web application** for organizing daily work.
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8"
-    height="160"
-  />
-</p>
-
+<div align="center">
+  
+  **Profile Views**  
+  ![](https://komarev.com/ghpvc/?username=abdallasamir04&color=blueviolet)
+  
+  **GitHub Stats**  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=monokai)
+  
+  **Top Languages**  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=monokai)
+  
+</div>
 
 <p align="center">
   <img 
