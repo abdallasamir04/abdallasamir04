@@ -102,16 +102,7 @@ A lightweight **task management web application** for organizing daily work.
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" 
-    height="165" 
-    alt="Top languages: C# 51.9%, HTML 21.52%, Python 11.24%, CSS 10.64%, C++ 2.12%, Java 1.71%, JavaScript 0.77%, Mako 0.11%"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" height="165" alt="Top Languages" />
 </p>
 
 
