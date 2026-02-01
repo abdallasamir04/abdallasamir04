@@ -72,34 +72,32 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true"
+    width="420"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8"
+    src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true"
+    width="420"
+    alt="GitHub Streak"
   />
 </p>
-
-
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true"
-    alt="Contribution graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=6&hide_border=true"
+    width="420"
+    alt="Top Languages"
   />
 </p>
+
 
 ---
 ## 🐍 Contribution Snake
