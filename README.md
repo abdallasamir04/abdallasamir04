@@ -1,77 +1,55 @@
+<!-- ========================= -->
+<!-- Header: Typing SVG -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=%F0%9F%91%8B%20Hi,+I'm+Abdalla+Samir;%F0%9F%9A%80%20Software+Engineering+Student;%F0%9F%92%BB%20Software+Developer;%F0%9F%8C%8D%20Tech+Enthusiast" alt="Typing introduction">
-</p>
-
-### 👨‍💻 About Me
-I am a **Software Engineering student at Assiut University** with a strong interest in building **clean, scalable, and reliable software systems**.  
-I enjoy turning ideas into real applications while applying **OOP, data structures, and software engineering principles**.
-
-## 🛠 Projects
-
-### 🛍 **Electro E-Commerce Platform**
-A **full-stack e-commerce system** designed for selling electronic products, focusing on performance, usability, and clean architecture.
-
-**Tech Stack:**  
-`.NET` · `C#` · `SQL Server` · `LINQ` · `jQuery` · `Bootstrap` · `HTML` · `CSS` · `JavaScript`
-
-**Key Features:**
-- Secure product catalog & categories  
-- Shopping cart & checkout workflow  
-- Clean UI with responsive design  
-- Database-driven architecture  
-
-<p align="center">
-  <strong style="font-size:18px;">🏆 🥉 THIRD PLACE — DEPI Full Stack .NET Graduation Projects</strong>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
+    alt="Typing introduction"
+  />
 </p>
 
 ---
 
-### 🖥 **Mini-FAT File System (OS Project)**
-A **custom FAT-like file system simulation** built from scratch to understand low-level storage concepts.
+I am a **Software Engineering student at Assiut University** focused on building **clear, reliable software**.
+
+---
+
+## 🛠 Projects
+
+### 🛍 **Electro E-Commerce**
+A complete **e-commerce platform** for electronics.
+
+**Tech:**  
+.NET · C# · SQL Server · LINQ · jQuery · Bootstrap · HTML · CSS · JavaScript  
 
 **Highlights:**
-- Virtual disk creation  
-- File allocation tracking  
-- Directory and file management  
-- Strong focus on **Operating Systems concepts**
+- Product catalog & categories  
+- Shopping cart & checkout flow  
+- Responsive UI  
 
-**Tech:** `C#` · `.NET`
+<p align="center">
+  <strong>🏆 🥉 3rd Place — DEPI Full Stack .NET Graduation Projects</strong>
+</p>
+
+---
+
+### 🖥 **Mini-FAT File System**
+A simplified FAT file system simulation in **C#/.NET**, exploring virtual disks and allocation tracking.
 
 ---
 
 ### 📐 **Geometric Object Calculator**
-A **Java GUI application** for calculating area and perimeter of geometric shapes.
-
-**Concepts Applied:**
-- Object-Oriented Programming (OOP)  
-- Inheritance & polymorphism  
-- Clean separation between logic & UI  
-
-**Tech:** `Java` · `Swing`
+A **Java GUI** application to calculate area & perimeter of shapes (circle, rectangle, square) using **OOP principles**.
 
 ---
 
-### ✅ **To-Do List (Data Structures – C++)**
-A **command-line task management system** implemented using a **linked list**.
-
-**Focus Areas:**
-- Dynamic memory management  
-- CRUD operations  
-- Practical use of data structures  
-
-**Tech:** `C++`
+### ✅ **To-Do List (C++)**
+Command-line task manager built with a **linked-list** data structure, focusing on data structures and memory management.
 
 ---
 
 ### 📝 **Samir List — Task Management Web App**
-A lightweight **task management web application** for organizing daily work.
-
-**Features:**
-- Add, update, delete tasks  
-- Active & completed task views  
-- Simple and clean user interface  
-
-**Tech:** `Python` · `Flask` · `SQLAlchemy` · `SQLite`
+A **Flask + SQLAlchemy** web application for organizing tasks (add / update / delete), with active and completed views.
 
 ---
 
@@ -79,27 +57,49 @@ A lightweight **task management web application** for organizing daily work.
 
 <!-- Languages & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap&perline=11" alt="Languages and frameworks" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap&perline=11"
+    alt="Languages and frameworks"
+  />
 </p>
 
 <!-- Databases & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,clion,figma&perline=12" alt="Databases and tools" />
+  <img
+    src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,clion,figma&perline=12"
+    alt="Databases and tools"
+  />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=dark" alt="GitHub Streak" /></a>
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical"
+    height="165"
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true"
+    alt="Contribution graph"
+  />
 </p>
 
 ---
@@ -107,7 +107,10 @@ A lightweight **task management web application** for organizing daily work.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img
+    src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
 </p>
 
 ---
