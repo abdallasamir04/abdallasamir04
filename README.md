@@ -100,31 +100,43 @@ A lightweight **task management web application** for organizing daily work.
 ---
 ## 📊 GitHub Stats
 
+<!-- Radical Stats & Streak -->
 <p align="center">
-  <!-- Stats Card -->
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" 
-    height="165" 
-    alt="Abdalla Samir's GitHub stats: 687 commits, 7 stars, 1 PR, 0 issues"
-  />
-  
-  <!-- Streak Stats Card -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=abdallasamir04&theme=radical&hide_border=true" 
-    height="165" 
-    alt="GitHub streak: Current streak 1 day, Longest streak 4 days, Total contributions 385"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak" />
 </p>
 
+<!-- Radical Top Languages -->
 <p align="center">
-  <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" 
-    height="165" 
-    alt="Top languages: C# 51.9%, HTML 21.52%, Python 11.24%, CSS 10.64%, C++ 2.12%, Java 1.71%, JavaScript 0.77%, Mako 0.11%"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
+<!-- Monokai Summary Cards Table -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Summary Stats</strong>
+      </td>
+      <td align="center" width="50%">
+        <strong>Repos per Language</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=monokai" width="100%" alt="Summary Stats Card" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=monokai" width="100%" alt="Repos per Language Card" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" width="845" alt="Contribution Graph" />
+</p>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" 
