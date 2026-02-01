@@ -91,10 +91,8 @@ A lightweight **task management web application** for organizing daily work.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical" height="165" alt="GitHub streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=dark" alt="GitHub Streak" /></a>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
