@@ -101,16 +101,24 @@ A lightweight **task management web application** for organizing daily work.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  **Profile Views**  
-  ![](https://komarev.com/ghpvc/?username=abdallasamir04&color=blueviolet)
-  
-  **GitHub Stats**  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=monokai)
-  
-  **Top Languages**  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=monokai)
-  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>GitHub Stats</strong>
+      </td>
+      <td align="center" width="50%">
+        <strong>Top Languages</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=monokai" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=monokai" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
@@ -155,3 +163,10 @@ A lightweight **task management web application** for organizing daily work.
     </td>
   </tr>
 </table>
+
+---
+<div align="center">
+  
+  **Profile Views**  
+  ![](https://komarev.com/ghpvc/?username=abdallasamir04&color=blueviolet)  
+</div>
