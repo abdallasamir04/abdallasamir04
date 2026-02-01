@@ -100,26 +100,26 @@ A lightweight **task management web application** for organizing daily work.
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <strong>GitHub Stats</strong>
-      </td>
-      <td align="center" width="50%">
-        <strong>Top Languages</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdallasamir04&theme=monokai" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallasamir04&theme=monokai" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <!-- Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true"
+    height="165"
+  />
+  <!-- Streak Stats Card -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=abdallasamir04&theme=radical&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    height="160"
+  />
+</p>
 
 <p align="center">
   <img 
