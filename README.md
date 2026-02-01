@@ -100,11 +100,7 @@ A lightweight **task management web application** for organizing daily work.
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://your-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
-    width="420"
-    alt="GitHub Stats"
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=dark" alt="GitHub Streak" /></a>
   />
   <img
     src="https://your-stats.vercel.app/api/streaks?user=abdallasamir04&theme=radical&hide_border=true"
