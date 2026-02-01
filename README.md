@@ -1,17 +1,10 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast"
-    alt="Typing introduction"
-  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=👋+Hi,+I'm+Abdalla+Samir;🚀+Software+Engineering+Student;💻+Software+Developer;🌍+Tech+Enthusiast" alt="Typing introduction"></a>
 </p>
-
-
 
 ### 👨‍💻 About Me
 I am a **Software Engineering student at Assiut University** with a strong interest in building **clean, scalable, and reliable software systems**.  
 I enjoy turning ideas into real applications while applying **OOP, data structures, and software engineering principles**.
-
-
 
 ## 🛠 Projects
 
@@ -86,18 +79,12 @@ A lightweight **task management web application** for organizing daily work.
 
 <!-- Languages & Frameworks -->
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap&perline=11"
-    alt="Languages and frameworks"
-  />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,flask,html,css,js,bootstrap&perline=11" alt="Languages and frameworks" />
 </p>
 
 <!-- Databases & Tools -->
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,clion,figma&perline=12"
-    alt="Databases and tools"
-  />
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,clion,figma&perline=12" alt="Databases and tools" />
 </p>
 
 ---
@@ -105,31 +92,16 @@ A lightweight **task management web application** for organizing daily work.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400"
-    height="165"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
-    height="165"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&cache_seconds=86400" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8"
-    height="160"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&langs_count=8" height="160" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true&radius=8"
-    alt="Contribution graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true&radius=8" alt="Contribution graph" />
 </p>
 
 ---
@@ -137,10 +109,7 @@ A lightweight **task management web application** for organizing daily work.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg"
-    alt="GitHub contribution snake"
-  />
+  <img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
