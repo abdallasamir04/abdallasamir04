@@ -86,9 +86,8 @@ A **Flask + SQLAlchemy** web application for organizing tasks (add / update / de
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=6" 
-    width="420" 
-    alt="Top Languages" 
+    src="https://github-readme-streak-stats-five.vercel.app/?user=abdallasamir04&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
   />
 </p>
 
