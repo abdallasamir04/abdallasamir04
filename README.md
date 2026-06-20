@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;.NET+Developer;Enterprise+Architecture+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;Backend+%26+.NET+Developer;Enterprise+Architecture+Enthusiast"
     alt="Typing introduction"
   />
 </p>
@@ -26,13 +26,13 @@ A fully implemented, enterprise-grade platform engineered to bridge the gap betw
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logoSize=auto&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logoSize=auto&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logoSize=auto&logo=nuget&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoSize=auto&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/N--Tier_Architecture-2E8B57?style=for-the-badge&logoSize=auto&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logoSize=auto&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logoSize=auto&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/N--Tier_Architecture-2E8B57?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 **Key Features**
@@ -56,11 +56,11 @@ A specialized, secure web application built to calculate and estimate software d
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=for-the-badge&logoSize=auto&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoSize=auto&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/i18n-009688?style=for-the-badge&logoSize=auto&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/SSL%2FTLS-3A3A3A?style=for-the-badge&logoSize=auto&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoSize=auto&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/i18n-009688?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/SSL%2FTLS-3A3A3A?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 **Key Features**
@@ -83,12 +83,12 @@ A robust full-stack e-commerce system designed for selling electronic products, 
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoSize=auto&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoSize=auto&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoSize=auto&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logoSize=auto&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logoSize=auto&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoSize=auto&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <p align="center">
@@ -110,8 +110,8 @@ A custom FAT-like file system simulation built from scratch to deeply understand
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoSize=auto&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logoSize=auto&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 </td>
@@ -129,10 +129,10 @@ A lightweight, fast, and responsive task management web application for organizi
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoSize=auto&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoSize=auto&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoSize=auto&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logoSize=auto&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 </td>
@@ -147,12 +147,12 @@ A lightweight, fast, and responsive task management web application for organizi
 
 **Geometric Object Calculator** — Swing (OOP, Inheritance, Polymorphism)
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoSize=auto&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 **Terminal To-Do List** — Data Structures, Linked Lists, Dynamic Memory Management
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoSize=auto&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 </td>
