@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;Backend+%26+.NET+Developer;Enterprise+Architecture+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;.NET+Developer;Enterprise+Architecture+Enthusiast"
     alt="Typing introduction"
   />
 </p>
@@ -23,17 +23,20 @@
 
 A fully implemented, enterprise-grade platform engineered to bridge the gap between academic education and industry requirements. Designed to connect students with corporate mentors through real-world micro-tasks, utilizing a smart matching algorithm and a double-blind evaluation engine to issue immutable Experience Tokens.
 
-**Tech Stack:**
-<img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=nuget&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean%20N--Tier%20Architecture-2E8B57?style=flat-square&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+**Tech Stack**
 
-**Key Features:**
-- **Smart Matching Engine:** Cross-references student CVs with task specializations.
+<p>
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/N--Tier_Architecture-2E8B57?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Key Features**
+- **AI-Powered Smart Matching:** Cross-references student CVs with task specializations.
 - **Double-Blind Evaluation & Tokens:** Cryptographically verifiable PDF certificates.
 - **Enterprise Security & Governance:** Role-Based Access Control (RBAC) & Database Transactions.
 - **Dynamic Analytics:** Real-time dashboards with Chart.js & AJAX notification polling.
@@ -50,14 +53,17 @@ A fully implemented, enterprise-grade platform engineered to bridge the gap betw
 
 A specialized, secure web application built to calculate and estimate software development costs based on industry-standard algorithmic models. Engineered with a focus on global accessibility and strict security configurations.
 
-**Tech Stack:**
-<img src="https://img.shields.io/badge/.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/i18n-009688?style=flat-square&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/SSL%2FTLS%20Security-3A3A3A?style=flat-square&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+**Tech Stack**
 
-**Key Features:**
+<p>
+<img src="https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/i18n-009688?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/SSL%2FTLS-3A3A3A?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Key Features**
 - **Global Reach (i18n):** Full multi-language support and localization architecture.
 - **Production Security:** Configured with custom SSL certificates for encrypted, secure data transmission.
 - **Algorithmic Engine:** Complex mathematical cost-estimation models implemented cleanly in the backend.
@@ -74,13 +80,20 @@ A specialized, secure web application built to calculate and estimate software d
 
 A robust full-stack e-commerce system designed for selling electronic products, focusing on performance, secure checkout workflows, and relational database integrity.
 
-**Tech Stack:**
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3rd_Place-DEPI_Full_Stack_.NET_Graduation_Projects-FF9900?style=for-the-badge" />
+</p>
 
 </td>
 </tr>
@@ -94,9 +107,12 @@ A robust full-stack e-commerce system designed for selling electronic products, 
 
 A custom FAT-like file system simulation built from scratch to deeply understand low-level storage mechanics, virtual disk creation, and file allocation tracking.
 
-**Tech Stack:**
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
 </td>
 </tr>
@@ -110,11 +126,14 @@ A custom FAT-like file system simulation built from scratch to deeply understand
 
 A lightweight, fast, and responsive task management web application for organizing daily work with active & completed task views.
 
-**Tech Stack:**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 </td>
 </tr>
@@ -126,8 +145,15 @@ A lightweight, fast, and responsive task management web application for organizi
 
 ### Core Computer Science Projects
 
-- **Geometric Object Calculator:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> Swing (OOP, Inheritance, Polymorphism).
-- **Terminal To-Do List:** <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> (Data Structures, Linked Lists, Dynamic Memory Management).
+**Geometric Object Calculator** — Swing (OOP, Inheritance, Polymorphism)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**Terminal To-Do List** — Data Structures, Linked Lists, Dynamic Memory Management
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
 </td>
 </tr>
