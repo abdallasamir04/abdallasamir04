@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <b>Software Engineer (B.Sc. from Assiut University)</b> passionate about building <b>scalable backend systems, clean architecture, and enterprise-grade web applications.</b>
+  <b>Software Engineer (B.Sc. from Assiut University)</b> passionate about building <b>scalable systems, clean architecture, and enterprise-grade web applications.</b>
 </div>
 
 ---
