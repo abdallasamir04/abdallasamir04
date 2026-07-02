@@ -13,41 +13,46 @@
 
 ---
 
-## 🛠️ Featured Projects
+##  Projects
 
 <table width="100%">
 <tr>
 <td width="100%">
 
-### 🚀 Darabny Platform — Enterprise Mentorship SaaS
+<table width="100%">
+<tr>
+<td width="100%">
 
-A fully implemented, enterprise-grade platform engineered to bridge the gap between academic education and industry requirements. Designed to connect students with corporate mentors through real-world micro-tasks, utilizing a smart matching algorithm and a double-blind evaluation engine to issue immutable Experience Tokens.
+###  Darabny Platform — Enterprise Mentorship SaaS
+<p>
+  <b>🎓 Software Engineering Graduation Project — FCAI, Assiut National University</b>
+</p>
+
+A fully implemented, enterprise-grade SaaS platform engineered to eradicate the "Experience Paradox" for fresh graduates. Darabny connects students with corporate mentors through exclusive, real-world micro-internships. The system is built on a strict **Clean N-Tier Architecture** and features a polyglot backend combining .NET with Python-based AI microservices.
 
 **Tech Stack**
 
 <p>
 <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_Microservice-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/N--Tier_Architecture-2E8B57?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-**Key Features**
-- **AI-Powered Smart Matching:** Cross-references student CVs with task specializations.
-- **Double-Blind Evaluation & Tokens:** Cryptographically verifiable PDF certificates.
-- **Enterprise Security & Governance:** Role-Based Access Control (RBAC) & Database Transactions.
-- **Dynamic Analytics:** Real-time dashboards with Chart.js & AJAX notification polling.
+**Key Innovations & Features**
+-  **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice that conducts real-time conversational technical interviews to prepare students before actual mentor engagement.
+-  **AI CV Parsing & Smart Matching:** Utilizes `PdfPig` to extract raw CV text, applying NLP and a custom mathematical intersection formula to rank mentors for students dynamically.
+-  **Double-Blind Evaluation Protocol:** Unbiased mutual rating mechanism that algorithmically triggers the issuance of certificates only when both parties complete the evaluation.
+-  **Immutable Cryptographic Tokens:** Generates tamper-proof, SHA-256 hashed Experience Tokens formatted as A4 print-ready PDFs with public verification URLs.
+-  **Enterprise Architecture & Integrity:** Engineered with Domain-Driven Clean Architecture, enforcing `Zero Data Loss` via EF Core Atomic Transactions, Soft Deletes, and strict Restrict cascade policies.
 
 </td>
 </tr>
 </table>
-
-<table width="100%">
-<tr>
-<td width="100%">
 
 ### 💰 Software Cost Estimation Engine
 
