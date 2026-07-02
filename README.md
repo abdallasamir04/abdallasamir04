@@ -1,180 +1,86 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;Backend+%26+.NET+Developer;Enterprise+Architecture+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;Backend+%26+.NET+Developer;Software+Architecture+Enthusiast"
     alt="Typing introduction"
   />
 </p>
 
----
-
 <div align="center">
-  <b>Software Engineer (B.Sc. from Assiut University)</b> passionate about building <b>scalable systems, clean architecture, and enterprise-grade web applications.</b>
+  <b>Software Engineer (B.Sc. from Assiut University)</b> focusing on building scalable systems, clean architecture, and reliable backend applications.
 </div>
 
 ---
 
-## 🚀 Projects
+## 🧰 Skills & Tech Stack
 
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🎓 Darabny Platform — Enterprise Mentorship SaaS
-<p>
-  <b>Software Engineering Graduation Project — FCAI, Assiut National University</b>
-</p>
-
-A fully implemented, enterprise-grade SaaS platform engineered to eradicate the "Experience Paradox" for fresh graduates. Darabny connects students with corporate mentors through exclusive, real-world micro-internships. The system is built on a strict **Clean N-Tier Architecture** and features a polyglot backend combining .NET with Python-based AI microservices.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_Microservice-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Key Innovations & Features**
-- 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice that conducts real-time conversational technical interviews to prepare students before actual mentor engagement.
-- 🧠 **AI CV Parsing & Smart Matching:** Utilizes `PdfPig` to extract raw CV text, applying NLP and a custom mathematical intersection formula to rank mentors for students dynamically.
-- ⚖️ **Double-Blind Evaluation Protocol:** Unbiased mutual rating mechanism that algorithmically triggers the issuance of certificates only when both parties complete the evaluation.
-- 📜 **Immutable Cryptographic Tokens:** Generates tamper-proof, SHA-256 hashed Experience Tokens formatted as A4 print-ready PDFs with public verification URLs.
-- 🏛️ **Enterprise Architecture & Integrity:** Engineered with Domain-Driven Clean Architecture, enforcing `Zero Data Loss` via EF Core Atomic Transactions, Soft Deletes, and strict Restrict cascade policies.
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 💰 Software Cost Estimation Engine
-
-A specialized, secure web application built to calculate and estimate software development costs based on industry-standard algorithmic models. Engineered with a focus on global accessibility and strict security configurations.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/i18n-009688?style=for-the-badge&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/SSL%2FTLS-3A3A3A?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Key Features**
-- **Global Reach (i18n):** Full multi-language support and localization architecture.
-- **Production Security:** Configured with custom SSL certificates for encrypted, secure data transmission.
-- **Algorithmic Engine:** Complex mathematical cost-estimation models implemented cleanly in the backend.
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🛒 Electro E-Commerce Platform
-
-A robust full-stack e-commerce system designed for selling electronic products, focusing on performance, secure checkout workflows, and relational database integrity.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/3rd_Place-DEPI_Full_Stack_.NET_Graduation_Projects-FF9900?style=for-the-badge" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🖥️ Mini-FAT File System (OS Project)
-
-A custom FAT-like file system simulation built from scratch to deeply understand low-level storage mechanics, virtual disk creation, and file allocation tracking.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### ✅ Samir List — Task Management Web App
-
-A lightweight, fast, and responsive task management web application for organizing daily work with active & completed task views.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 📐 Core Computer Science Projects
-
-**Geometric Object Calculator** — Swing (OOP, Inheritance, Polymorphism)
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-**Terminal To-Do List** — Data Structures, Linked Lists, Dynamic Memory Management
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
+- **Languages:** C# • Python • Java • C++ • JavaScript
+- **Frameworks:** .NET • ASP.NET Core • EF Core • FastAPI • Flask
+- **Databases:** SQL Server • MySQL • SQLite
+- **Tools & Others:** Git • Docker • Visual Studio • VS Code • Postman
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🚀 Featured Projects
+
+### 🎓 Darabny Platform
+AI-powered mentorship SaaS platform connecting students with industry mentors through micro-internships.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,flask,html,css,js,bootstrap&perline=11" alt="Languages and frameworks" />
+  <img src="images/darabny.png" alt="Darabny Platform Screenshot" width="800">
+  <!-- 💡 لا تنسَ إضافة صورة المشروع في مجلد images -->
 </p>
 
+**Highlights**
+✔ Built with Clean N-Tier Architecture & Domain-Driven Design
+✔ AI Mock Interviews via FastAPI Microservice
+✔ Smart CV Matching using NLP (`PdfPig`)
+✔ Uses EF Core Transactions & Soft Deletes
+✔ Generates SHA-256 verified certificates (Experience Tokens)
+
+**Tech:** .NET • ASP.NET Core • SQL Server • FastAPI • Python • OpenAI API
+
+---
+
+### 🛒 Electro E-Commerce Platform
+Full-stack e-commerce system for electronic products with secure checkout workflows.
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma&perline=11" alt="Databases and tools" />
+  <img src="images/electro.png" alt="Electro Screenshot" width="800">
 </p>
+
+**Highlights**
+✔ 🏆 3rd Place - DEPI Full Stack .NET Graduation Projects
+✔ Focus on relational database integrity and performance
+✔ Secure shopping cart and checkout implementation
+
+**Tech:** .NET • C# • SQL Server • LINQ • jQuery • Bootstrap
+
+---
+
+### 💰 Software Cost Estimation Engine
+Web application to calculate software development costs based on algorithmic models.
+
+<p align="center">
+  <img src="images/cost-estimation.png" alt="Cost Estimation Screenshot" width="800">
+</p>
+
+**Highlights**
+✔ Multi-language support (i18n) and localization
+✔ Implements complex mathematical cost-estimation models
+✔ Configured with custom SSL for secure data transmission
+
+**Tech:** C# • ASP.NET Core MVC • Bootstrap
+
+---
+
+### 🖥️ Mini-FAT File System
+Custom FAT-like file system simulation for understanding low-level storage mechanics.
+
+**Highlights**
+✔ Built from scratch to simulate virtual disk creation
+✔ Implements file allocation tracking and directory management
+
+**Tech:** C# • .NET Core
 
 ---
 
@@ -195,7 +101,6 @@ A lightweight, fast, and responsive task management web application for organizi
 
 </div>
 
-<br/>
 ---
 
 ## 🐍 Contribution Activity
@@ -208,29 +113,21 @@ A lightweight, fast, and responsive task management web application for organizi
 
 ## 🌐 Let's Connect
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
-        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="mailto:samirovic707@gmail.com">
-        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://discord.com/users/jupyter_notebook">
-        <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samirovic707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/jupyter_notebook">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <b>Profile Views</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=abdallasamir04&color=blueviolet" alt="Profile Views" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=abdallasamir04&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
