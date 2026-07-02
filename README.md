@@ -51,6 +51,10 @@ A fully implemented, enterprise-grade SaaS platform engineered to eradicate the 
 </tr>
 </table>
 
+<table width="100%">
+<tr>
+<td width="100%">
+
 ### 💰 Software Cost Estimation Engine
 
 A specialized, secure web application built to calculate and estimate software development costs based on industry-standard algorithmic models. Engineered with a focus on global accessibility and strict security configurations.
