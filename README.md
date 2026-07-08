@@ -199,7 +199,6 @@ A lightweight, fast, and responsive task management web application for organizi
 
 
 <br/>
----
 
 ## 🐍 Contribution Activity
 
