@@ -191,7 +191,12 @@ A lightweight, fast, and responsive task management web application for organizi
 
 <br/>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
 </div>
+
 
 <br/>
 ---
