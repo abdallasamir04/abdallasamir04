@@ -192,7 +192,7 @@ A lightweight, fast, and responsive task management web application for organizi
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=react-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
