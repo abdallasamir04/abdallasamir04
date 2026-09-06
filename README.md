@@ -190,7 +190,7 @@ A lightweight, fast, and responsive task management web application for organizi
   <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true&timezone=Africa/Cairo" alt="GitHub Streak" />
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true)](https://github.com/abdallasamir04)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdallasamir04&theme=2077)](https://github.com/abdallasamir04)
 
 <br/>
 
