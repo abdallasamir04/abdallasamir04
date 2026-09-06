@@ -191,10 +191,9 @@ A lightweight, fast, and responsive task management web application for organizi
 
 <br/>
 
-[![Abdalla's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&theme=react-dark&area=true&hide_border=true)](https://github.com/abdallasamir04)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallasamir04&show_icons=true&theme=react-dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <br/>
 
