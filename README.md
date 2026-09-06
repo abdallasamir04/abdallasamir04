@@ -187,7 +187,7 @@ A lightweight, fast, and responsive task management web application for organizi
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true&timezone=Africa/Cairo" alt="GitHub Streak" />
 </p>
 
 
