@@ -185,15 +185,12 @@ A lightweight, fast, and responsive task management web application for organizi
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallasamir04&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
 
 <br/>
 
