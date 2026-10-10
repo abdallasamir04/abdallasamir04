@@ -13,7 +13,7 @@
 
 ---
 
-## Experience
+##  Experience
 
 ### Full Stack Developer — CCO
 **Contract · Cairo, Egypt · Hybrid**  
@@ -61,7 +61,7 @@
 <tr>
 <td width="100%">
 
-### 🎓 Darabny Platform : Enterprise Mentorship SaaS
+### 🎓 Darabny Platform — Enterprise Mentorship SaaS
 <p>
   <b>Software Engineering Graduation Project — FCAI, Assiut National University</b>
 </p>
@@ -217,7 +217,12 @@ A lightweight, responsive task management web app with active and completed task
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma&perline=11" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=12" alt="Databases, tools, and LaTeX" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kashier-Payment_Gateway-6C3CE9?style=for-the-badge" alt="Kashier payment gateway" />
+  <img src="https://img.shields.io/badge/Paymob-Payment_Gateway-00AEEF?style=for-the-badge" alt="Paymob payment gateway" />
 </p>
 
 ---
