@@ -52,7 +52,6 @@
 | Introduction to Software Engineering | IBM | April 2025 |
 | Python for Data Science, AI & Development | IBM | April 2025 |
 
-> Add credential URLs to the relevant certification titles when you have the public verification links available.
 
 ---
 
