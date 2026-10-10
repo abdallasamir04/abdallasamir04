@@ -13,7 +13,50 @@
 
 ---
 
-##  Projects
+## 💼 Experience
+
+### Full Stack Developer — CCO
+**Contract · Cairo, Egypt · Hybrid**  
+*September 2026 – Present*
+
+- Contributing to full-stack application development in a professional, hybrid work environment.
+- Building and maintaining web application features across the stack.
+
+### Offline Tutor — DEMI Summer Camp, iSchool
+**Part-time · Al Minya, Egypt · On-site**  
+*August 2026*
+
+- Conducted coding sessions for students at the DEMI Summer Camp.
+- Delivered hands-on programming activities to help students practice coding concepts.
+
+### Trainee — Full Stack Development, Digital Egypt Pioneers Initiative (DEPI)
+**Hybrid · Asyut, Egypt**  
+*October 2024 – May 2025*
+
+- Gained hands-on full-stack web development experience through practical projects.
+- Led the graduation project team to **3rd place nationwide in Egypt**.
+
+---
+
+## 🏅 Licenses & Certifications
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| Overview of AI | Huawei ICT Academy – Egypt | September 2026 |
+| Styling with CSS – Layouts and Visual Design | Packt | August 2026 |
+| Introduction to Web Development and HTML Basics | Packt | July 2026 |
+| Build with AI: Masr Edition | Google for Developers | June 2026 |
+| Full Stack .NET Web Developer | Digital Egypt Pioneers Initiative (DEPI) | June 2025 |
+| 3rd Place – Graduation Project | eyouth | June 2025 |
+| Business English Track – DEPI | Berlitz Egypt | May 2025 |
+| Introduction to Software Engineering | IBM | April 2025 |
+| Python for Data Science, AI & Development | IBM | April 2025 |
+
+> Add credential URLs to the relevant certification titles when you have the public verification links available.
+
+---
+
+## 🚀 Projects
 
 <table width="100%">
 <tr>
@@ -24,7 +67,7 @@
   <b>Software Engineering Graduation Project — FCAI, Assiut National University</b>
 </p>
 
-A fully implemented, enterprise-grade SaaS platform engineered to eradicate the "Experience Paradox" for fresh graduates. Darabny connects students with corporate mentors through exclusive, real-world micro-internships. The system is built on a strict **Clean N-Tier Architecture** and features a polyglot backend combining .NET with Python-based AI microservices.
+A fully implemented, enterprise-grade SaaS platform engineered to address the "Experience Paradox" for fresh graduates. Darabny connects students with corporate mentors through real-world micro-internships. The system uses a Clean N-Tier Architecture and a backend that combines .NET with Python-based AI microservices.
 
 **Tech Stack**
 
@@ -40,11 +83,11 @@ A fully implemented, enterprise-grade SaaS platform engineered to eradicate the 
 </p>
 
 **Key Innovations & Features**
-- 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice that conducts real-time conversational technical interviews to prepare students before actual mentor engagement.
-- 🧠 **AI CV Parsing & Smart Matching:** Utilizes `PdfPig` to extract raw CV text, applying NLP and a custom mathematical intersection formula to rank mentors for students dynamically.
-- ⚖️ **Double-Blind Evaluation Protocol:** Unbiased mutual rating mechanism that algorithmically triggers the issuance of certificates only when both parties complete the evaluation.
-- 📜 **Immutable Cryptographic Tokens:** Generates tamper-proof, SHA-256 hashed Experience Tokens formatted as A4 print-ready PDFs with public verification URLs.
-- 🏛️ **Enterprise Architecture & Integrity:** Engineered with Domain-Driven Clean Architecture, enforcing `Zero Data Loss` via EF Core Atomic Transactions, Soft Deletes, and strict Restrict cascade policies.
+- 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice for conversational technical interview practice.
+- 🧠 **AI CV Parsing & Smart Matching:** Uses `PdfPig` to extract CV text and a custom NLP-based matching formula to rank mentors for students.
+- ⚖️ **Double-Blind Evaluation:** Mutual reviews trigger certificate issuance after both parties complete their evaluations.
+- 📜 **Cryptographic Experience Tokens:** Generates SHA-256 hashed Experience Tokens as A4-ready PDFs with public verification URLs.
+- 🏛️ **Architecture & Data Integrity:** Uses Clean Architecture, EF Core transactions, soft deletes, and restrictive cascade policies.
 
 </td>
 </tr>
@@ -56,7 +99,7 @@ A fully implemented, enterprise-grade SaaS platform engineered to eradicate the 
 
 ### 💰 Software Cost Estimation Engine
 
-A specialized, secure web application built to calculate and estimate software development costs based on industry-standard algorithmic models. Engineered with a focus on global accessibility and strict security configurations.
+A secure web application that estimates software development costs using algorithmic models, with an emphasis on accessibility and secure configuration.
 
 **Tech Stack**
 
@@ -69,9 +112,9 @@ A specialized, secure web application built to calculate and estimate software d
 </p>
 
 **Key Features**
-- **Global Reach (i18n):** Full multi-language support and localization architecture.
-- **Production Security:** Configured with custom SSL certificates for encrypted, secure data transmission.
-- **Algorithmic Engine:** Complex mathematical cost-estimation models implemented cleanly in the backend.
+- **Internationalization:** Multi-language support and localization.
+- **Secure Communication:** Configured SSL certificates for encrypted data transmission.
+- **Estimation Engine:** Backend implementation of mathematical software cost-estimation models.
 
 </td>
 </tr>
@@ -83,7 +126,7 @@ A specialized, secure web application built to calculate and estimate software d
 
 ### 🛒 Electro E-Commerce Platform
 
-A robust full-stack e-commerce system designed for selling electronic products, focusing on performance, secure checkout workflows, and relational database integrity.
+A full-stack e-commerce system for electronic products, focusing on checkout workflows, performance, and relational database integrity.
 
 **Tech Stack**
 
@@ -110,7 +153,7 @@ A robust full-stack e-commerce system designed for selling electronic products, 
 
 ### 🖥️ Mini-FAT File System (OS Project)
 
-A custom FAT-like file system simulation built from scratch to deeply understand low-level storage mechanics, virtual disk creation, and file allocation tracking.
+A FAT-like file system simulation built from scratch to explore low-level storage mechanics, virtual disk creation, and file allocation tracking.
 
 **Tech Stack**
 
@@ -129,7 +172,7 @@ A custom FAT-like file system simulation built from scratch to deeply understand
 
 ### ✅ Samir List — Task Management Web App
 
-A lightweight, fast, and responsive task management web application for organizing daily work with active & completed task views.
+A lightweight, responsive task management web app with active and completed task views.
 
 **Tech Stack**
 
@@ -150,12 +193,14 @@ A lightweight, fast, and responsive task management web application for organizi
 
 ### 📐 Core Computer Science Projects
 
-**Geometric Object Calculator** — Swing (OOP, Inheritance, Polymorphism)
+**Geometric Object Calculator** — Java Swing, OOP, inheritance, and polymorphism.
+
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-**Terminal To-Do List** — Data Structures, Linked Lists, Dynamic Memory Management
+**Terminal To-Do List** — Data structures, linked lists, and dynamic memory management.
+
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
@@ -184,7 +229,6 @@ A lightweight, fast, and responsive task management web application for organizi
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true&timezone=Africa/Cairo" alt="GitHub Streak" />
