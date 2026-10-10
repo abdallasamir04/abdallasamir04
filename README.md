@@ -13,7 +13,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Full Stack Developer — CCO
 **Contract · Cairo, Egypt · Hybrid**  
@@ -38,7 +38,7 @@
 
 ---
 
-## 🏅 Licenses & Certifications
+##  Licenses & Certifications
 
 | Certification | Issuer | Issued |
 |---|---|---|
@@ -61,7 +61,7 @@
 <tr>
 <td width="100%">
 
-### 🎓 Darabny Platform — Enterprise Mentorship SaaS
+### 🎓 Darabny Platform : Enterprise Mentorship SaaS
 <p>
   <b>Software Engineering Graduation Project — FCAI, Assiut National University</b>
 </p>
