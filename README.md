@@ -38,7 +38,7 @@
 
 ---
 
-##  Licenses & Certifications
+## 🏅 Licenses & Certifications
 
 | Certification | Issuer | Issued |
 |---|---|---|
@@ -61,7 +61,7 @@
 <tr>
 <td width="100%">
 
-### 🎓 Darabny Platform — Enterprise Mentorship SaaS
+### 🎓 Darabny Platform :  Enterprise Mentorship SaaS
 <p>
   <b>Software Engineering Graduation Project — FCAI, Assiut National University</b>
 </p>
@@ -221,8 +221,8 @@ A lightweight, responsive task management web app with active and completed task
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kashier-Payment_Gateway-6C3CE9?style=for-the-badge" alt="Kashier payment gateway" />
-  <img src="https://img.shields.io/badge/Paymob-Payment_Gateway-00AEEF?style=for-the-badge" alt="Paymob payment gateway" />
+  <img src="https://img.shields.io/badge/Kashier-6C3CE9?style=for-the-badge&logo=payment&logoColor=white" alt="Kashier payment gateway icon" />
+  <img src="https://img.shields.io/badge/Paymob-00AEEF?style=for-the-badge&logo=payment&logoColor=white" alt="Paymob payment gateway icon" />
 </p>
 
 ---
