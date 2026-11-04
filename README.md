@@ -70,10 +70,10 @@ A fully implemented, enterprise-grade SaaS platform that addresses the "Experien
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,mssql,js,openai&perline=7" alt="Darabny tech stack" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,js&perline=5" alt="Darabny tech stack" />
 </p>
 
-<sub>Also: ASP.NET Core MVC · EF Core · OpenAI API · AJAX</sub>
+<sub>Also: ASP.NET Core MVC · EF Core · SQL Server · OpenAI API · AJAX</sub>
 
 **Key Features**
 - 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice for conversational technical interview practice.
@@ -122,10 +122,10 @@ A full-stack e-commerce system for electronic products, focused on checkout work
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,mssql,jquery,bootstrap&perline=5" alt="Electro tech stack" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,jquery,bootstrap&perline=4" alt="Electro tech stack" />
 </p>
 
-<sub>Also: LINQ</sub>
+<sub>Also: SQL Server · LINQ</sub>
 
 <p align="center">
   <img src="https://img.shields.io/badge/3rd_Place-DEPI_Full_Stack_.NET_Graduation_Projects-FF9900?style=for-the-badge" />
@@ -204,7 +204,7 @@ A lightweight, responsive task management web app with active and completed task
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=12" alt="Databases, tools, and LaTeX" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=11" alt="Databases, tools, and LaTeX" />
 </p>
 
 <p align="center">
