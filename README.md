@@ -70,7 +70,7 @@ A fully implemented, enterprise-grade SaaS platform that addresses the "Experien
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,js&perline=5" alt="Darabny tech stack" height="48" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon-plain:microsoftsqlserver.svg?color=%23CC2927&height=48" height="48" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nuget/3B8BD6" height="48" alt="EF Core (NuGet)" title="EF Core (NuGet)" />&nbsp;&nbsp;<img src="https://api.iconify.design/ri:openai-fill.svg?color=%2310A37F&height=48" height="48" alt="OpenAI API" title="OpenAI API" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,js&perline=5" alt="Darabny tech stack" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgNXYxNGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjUiLz48cGF0aCBkPSJNNCAxMmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zIi8%2BPC9zdmc%2B" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nuget/3B8BD6" height="48" alt="EF Core (NuGet)" title="EF Core (NuGet)" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenAI%20API-10A37F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDMTIuOCA4IDE0LjUgMTAuMiAyMiAxMkMxNC41IDEzLjggMTIuOCAxNiAxMiAyMkMxMS4yIDE2IDkuNSAxMy44IDIgMTJDOS41IDEwLjIgMTEuMiA4IDEyIDJaIi8%2BPC9zdmc%2B" alt="OpenAI API" title="OpenAI API" />
 </p>
 
 <sub>Also: ASP.NET Core MVC · AJAX</sub>
@@ -122,7 +122,7 @@ A full-stack e-commerce system for electronic products, focused on checkout work
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,jquery,bootstrap&perline=4" alt="Electro tech stack" height="48" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon-plain:microsoftsqlserver.svg?color=%23CC2927&height=48" height="48" alt="SQL Server" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,jquery,bootstrap&perline=4" alt="Electro tech stack" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgNXYxNGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjUiLz48cGF0aCBkPSJNNCAxMmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zIi8%2BPC9zdmc%2B" alt="SQL Server" title="SQL Server" />
 </p>
 
 <sub>Also: LINQ</sub>
@@ -203,7 +203,7 @@ A lightweight, responsive task management web app with active and completed task
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=11" alt="Databases, tools, and LaTeX" />
-  <img src="https://api.iconify.design/devicon-plain:microsoftsqlserver.svg?color=%23CC2927&height=48" height="48" alt="SQL Server" title="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgNXYxNGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjUiLz48cGF0aCBkPSJNNCAxMmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zIi8%2BPC9zdmc%2B" alt="SQL Server" title="SQL Server" />
 </p>
 
 <p align="center">
