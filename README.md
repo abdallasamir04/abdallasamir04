@@ -246,7 +246,11 @@ A lightweight, responsive task management web app with active and completed task
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -268,7 +272,8 @@ A lightweight, responsive task management web app with active and completed task
     <td align="center" style="border: none;">
       <a href="https://discord.com/users/jupyter_notebook">
         <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
-      
+      </a>
+  
   </tr>
 </table>
 
