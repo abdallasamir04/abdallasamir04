@@ -70,10 +70,10 @@ A fully implemented, enterprise-grade SaaS platform that addresses the "Experien
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,js&perline=5" alt="Darabny tech stack" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,js&perline=5" alt="Darabny tech stack" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nuget/3B8BD6" height="48" alt="EF Core (NuGet)" title="EF Core (NuGet)" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/10A37F" height="48" alt="OpenAI API" title="OpenAI API" />
 </p>
 
-<sub>Also: ASP.NET Core MVC · EF Core · SQL Server · OpenAI API · AJAX</sub>
+<sub>Also: ASP.NET Core MVC · AJAX</sub>
 
 **Key Features**
 - 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice for conversational technical interview practice.
@@ -97,10 +97,10 @@ A secure web application that estimates software development costs using algorit
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,bootstrap&perline=3" alt=".NET Core MVC cost estimation tech stack" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,bootstrap&perline=3" alt=".NET Core MVC cost estimation tech stack" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/i18next/26A69A" height="48" alt="i18n" title="i18n" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/letsencrypt/2AA9E0" height="48" alt="SSL/TLS" title="SSL/TLS" />
 </p>
 
-<sub>Also: ASP.NET Core MVC · i18n · SSL/TLS</sub>
+<sub>Also: ASP.NET Core MVC</sub>
 
 **Key Features**
 - **Internationalization:** Multi-language support and localization.
@@ -122,10 +122,10 @@ A full-stack e-commerce system for electronic products, focused on checkout work
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,jquery,bootstrap&perline=4" alt="Electro tech stack" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,jquery,bootstrap&perline=4" alt="Electro tech stack" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server" title="SQL Server" />
 </p>
 
-<sub>Also: SQL Server · LINQ</sub>
+<sub>Also: LINQ</sub>
 
 <p align="center">
   <img src="https://img.shields.io/badge/3rd_Place-DEPI_Full_Stack_.NET_Graduation_Projects-FF9900?style=for-the-badge" />
@@ -164,10 +164,8 @@ A lightweight, responsive task management web app with active and completed task
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite&perline=3" alt="Samir List tech stack" />
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite&perline=3" alt="Samir List tech stack" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="48" alt="SQLAlchemy" title="SQLAlchemy" />
 </p>
-
-<sub>Also: SQLAlchemy</sub>
 
 </td>
 </tr>
@@ -205,6 +203,7 @@ A lightweight, responsive task management web app with active and completed task
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=11" alt="Databases, tools, and LaTeX" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server" title="SQL Server" />
 </p>
 
 <p align="center">
