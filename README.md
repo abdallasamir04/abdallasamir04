@@ -1,229 +1,160 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;Backend+%26+.NET+Developer;Enterprise+Architecture+Enthusiast"
-    alt="Typing introduction"
-  />
-</p>
-
----
-
 <div align="center">
-  <b>Software Engineer (B.Sc. from Assiut University)</b> passionate about building <b>scalable systems, clean architecture, and enterprise-grade web applications.</b>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdalla+Samir+%F0%9F%91%8B;Software+Engineer+%7C+Backend+%26+.NET;Building+scalable%2C+clean+systems;Enterprise+Architecture+Enthusiast" alt="Typing intro" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Sc.-Assiut_University-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based_in-Egypt_%F0%9F%87%AA%F0%9F%87%AC-C8102E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-.NET_%7C_Clean_Architecture-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open_to_opportunities-2EA44F?style=for-the-badge" />
+
 </div>
 
 ---
 
-##  Experience
+## 👨‍💻 About Me
 
-### Full Stack Developer — CCO
-**Contract · Cairo, Egypt · Hybrid**  
-*September 2026 – Present*
+I'm a **Software Engineer** (B.Sc., Assiut University) who enjoys turning complex requirements into **clean, scalable, and maintainable** systems. My main work is in **.NET backend development**, and I like combining it with **Python-based AI microservices** when a project calls for it.
 
-- Contributing to full-stack application development in a professional, hybrid work environment.
-- Building and maintaining web application features across the stack.
+> 🏆 Led my team to **3rd place nationwide in Egypt** in the DEPI graduation projects.
 
-### Offline Tutor — DEMI Summer Camp, iSchool
-**Part-time · Al Minya, Egypt · On-site**  
-*August 2026*
-
-- Conducted coding sessions for students at the DEMI Summer Camp.
-- Delivered hands-on programming activities to help students practice coding concepts.
-
-### Trainee — Full Stack Development, Digital Egypt Pioneers Initiative (DEPI)
-**Hybrid · Asyut, Egypt**  
-*October 2024 – May 2025*
-
-- Gained hands-on full-stack web development experience through practical projects.
-- Led the graduation project team to **3rd place nationwide in Egypt**.
-
----
-
-## 🏅 Licenses & Certifications
-
-| Certification | Issuer | Issued |
+| 🔭 Currently | 🧠 Interested in | 🛠️ Main stack |
 |---|---|---|
-| Overview of AI | Huawei ICT Academy – Egypt | September 2026 |
-| Styling with CSS – Layouts and Visual Design | Packt | August 2026 |
-| Introduction to Web Development and HTML Basics | Packt | July 2026 |
-| Build with AI: Masr Edition | Google for Developers | June 2026 |
-| Full Stack .NET Web Developer | Digital Egypt Pioneers Initiative (DEPI) | June 2025 |
-| 3rd Place – Graduation Project | eyouth | June 2025 |
-| Business English Track – DEPI | Berlitz Egypt | May 2025 |
-| Introduction to Software Engineering | IBM | April 2025 |
-| Python for Data Science, AI & Development | IBM | April 2025 |
-
+| Full Stack Developer @ CCO | Clean Architecture, Enterprise Systems, AI integration | C#, ASP.NET Core, SQL Server, Python |
 
 ---
 
-## 🚀 Projects
+## 💼 Experience
 
-<table width="100%">
+<table>
 <tr>
-<td width="100%">
-
-### 🎓 Darabny Platform :  Enterprise Mentorship SaaS
-<p>
-  <b>Software Engineering Graduation Project — FCAI, Assiut National University</b>
-</p>
-
-A fully implemented, enterprise-grade SaaS platform engineered to address the "Experience Paradox" for fresh graduates. Darabny connects students with corporate mentors through real-world micro-internships. The system uses a Clean N-Tier Architecture and a backend that combines .NET with Python-based AI microservices.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_Microservice-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Key Innovations & Features**
-- 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice for conversational technical interview practice.
-- 🧠 **AI CV Parsing & Smart Matching:** Uses `PdfPig` to extract CV text and a custom NLP-based matching formula to rank mentors for students.
-- ⚖️ **Double-Blind Evaluation:** Mutual reviews trigger certificate issuance after both parties complete their evaluations.
-- 📜 **Cryptographic Experience Tokens:** Generates SHA-256 hashed Experience Tokens as A4-ready PDFs with public verification URLs.
-- 🏛️ **Architecture & Data Integrity:** Uses Clean Architecture, EF Core transactions, soft deletes, and restrictive cascade policies.
-
+<td width="170"><b>Sep 2026 – Present</b></td>
+<td>
+<b>Full Stack Developer — CCO</b><br/>
+<sub>Contract · Cairo, Egypt · Hybrid</sub><br/>
+• Building and maintaining web application features across the full stack.<br/>
+• Contributing to a professional, team-based delivery environment.
+</td>
+</tr>
+<tr>
+<td><b>Aug 2026</b></td>
+<td>
+<b>Offline Tutor — DEMI Summer Camp, iSchool</b><br/>
+<sub>Part-time · Al Minya, Egypt · On-site</sub><br/>
+• Led hands-on coding sessions and programming activities for students.
+</td>
+</tr>
+<tr>
+<td><b>Oct 2024 – May 2025</b></td>
+<td>
+<b>Full Stack Trainee — Digital Egypt Pioneers Initiative (DEPI)</b><br/>
+<sub>Hybrid · Asyut, Egypt</sub><br/>
+• Gained practical full-stack experience through real projects.<br/>
+• <b>Led the graduation project team to 3rd place nationwide.</b>
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="100%">
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Darabny — Enterprise Mentorship SaaS
+**Graduation Project · FCAI, Assiut National University**
+
+A production-style SaaS platform that tackles the *"Experience Paradox"* for fresh graduates by connecting them with corporate mentors through real-world micro-internships. Built on **Clean N-Tier Architecture** with a .NET backend and Python AI microservices.
+
+<p>
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=nuget&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+- 🎙️ **AI Mock Interview Simulator** — a dedicated Python/FastAPI microservice for conversational technical interview practice.
+- 🧠 **AI CV Parsing & Smart Matching** — extracts CV text with `PdfPig` and ranks mentors using a custom NLP-based matching formula.
+- ⚖️ **Double-Blind Evaluation** — certificates are issued only after both sides complete their reviews.
+- 📜 **Cryptographic Experience Tokens** — SHA-256 hashed tokens exported as A4-ready PDFs with public verification URLs.
+- 🏛️ **Data Integrity** — Clean Architecture, EF Core transactions, soft deletes, and restrictive cascade policies.
+
+---
+
+### 🛒 Electro — E-Commerce Platform &nbsp;<img src="https://img.shields.io/badge/🥉_3rd_Place-DEPI_Full_Stack_.NET-FF9900?style=flat-square" />
+
+Full-stack e-commerce system for electronics, focused on checkout workflows, performance, and relational database integrity.
+
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+---
 
 ### 💰 Software Cost Estimation Engine
 
-A secure web application that estimates software development costs using algorithmic models, with an emphasis on accessibility and secure configuration.
+Secure web app that estimates software development cost using algorithmic models, with a focus on accessibility and secure configuration.
 
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/i18n-009688?style=for-the-badge&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/SSL%2FTLS-3A3A3A?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Key Features**
-- **Internationalization:** Multi-language support and localization.
-- **Secure Communication:** Configured SSL certificates for encrypted data transmission.
-- **Estimation Engine:** Backend implementation of mathematical software cost-estimation models.
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🛒 Electro E-Commerce Platform
-
-A full-stack e-commerce system for electronic products, focusing on checkout workflows, performance, and relational database integrity.
-
-**Tech Stack**
+- 🌍 **Internationalization** — multi-language support and localization.
+- 🔒 **Secure communication** — SSL/TLS configured for encrypted data transmission.
+- 🧮 **Estimation engine** — backend implementation of mathematical cost-estimation models.
 
 <p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/SSL%2FTLS-3A3A3A?style=flat-square&logo=letsencrypt&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/3rd_Place-DEPI_Full_Stack_.NET_Graduation_Projects-FF9900?style=for-the-badge" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🖥️ Mini-FAT File System (OS Project)
-
-A FAT-like file system simulation built from scratch to explore low-level storage mechanics, virtual disk creation, and file allocation tracking.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### ✅ Samir List — Task Management Web App
-
-A lightweight, responsive task management web app with active and completed task views.
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 📐 Core Computer Science Projects
-
-**Geometric Object Calculator** — Java Swing, OOP, inheritance, and polymorphism.
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-**Terminal To-Do List** — Data structures, linked lists, and dynamic memory management.
-
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🧪 More Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,flask,html,css,js,bootstrap&perline=11" alt="Languages and frameworks" />
-</p>
+| Project | Description | Tech |
+|---|---|---|
+| 🖥️ **Mini-FAT File System** | FAT-like file system simulation built from scratch: virtual disk creation and file allocation tracking. | `C#` `.NET Core` |
+| ✅ **Samir List** | Lightweight, responsive task manager with active and completed views. | `Python` `Flask` `SQLAlchemy` `SQLite` |
+| 📐 **Geometric Object Calculator** | Desktop app showcasing OOP, inheritance, and polymorphism. | `Java Swing` |
+| 📝 **Terminal To-Do List** | Linked lists and dynamic memory management in practice. | `C++` |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=12" alt="Databases, tools, and LaTeX" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kashier-6C3CE9?style=for-the-badge&logo=payment&logoColor=white" alt="Kashier payment gateway icon" />
-  <img src="https://img.shields.io/badge/Paymob-00AEEF?style=for-the-badge&logo=payment&logoColor=white" alt="Paymob payment gateway icon" />
-</p>
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,flask,html,css,js,bootstrap&perline=11" alt="Languages and frameworks" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=12" alt="Databases and tools" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Kashier-6C3CE9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Paymob-00AEEF?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| 🎖️ Certification | 🏢 Issuer | 📅 Issued |
+|---|---|---|
+| Overview of AI | Huawei ICT Academy – Egypt | Sep 2026 |
+| Styling with CSS – Layouts and Visual Design | Packt | Aug 2026 |
+| Introduction to Web Development and HTML Basics | Packt | Jul 2026 |
+| Build with AI: Masr Edition | Google for Developers | Jun 2026 |
+| **Full Stack .NET Web Developer** | Digital Egypt Pioneers Initiative (DEPI) | Jun 2025 |
+| **🥉 3rd Place – Graduation Project** | eyouth | Jun 2025 |
+| Business English Track – DEPI | Berlitz Egypt | May 2025 |
+| Introduction to Software Engineering | IBM | Apr 2025 |
+| Python for Data Science, AI & Development | IBM | Apr 2025 |
 
 ---
 
@@ -234,47 +165,46 @@ A lightweight, responsive task management web app with active and completed task
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallasamir04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdallasamir04&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true&timezone=Africa/Cairo" alt="GitHub Streak" />
-</p>
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdallasamir04&theme=2077)](https://github.com/abdallasamir04)
-
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=abdallasamir04&theme=radical&hide_border=true&timezone=Africa/Cairo" alt="GitHub Streak" />
+
+</div>
+
+---
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg" alt="GitHub contribution snake" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
 ## 🌐 Let's Connect
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
-        <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="mailto:samirovic707@gmail.com">
-        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://discord.com/users/jupyter_notebook">
-        <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
-  <b>Profile Views</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=abdallasamir04&color=blueviolet" alt="Profile Views" />
+
+<a href="https://www.linkedin.com/in/abdalla-samir-9264242b6">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdalla_Samir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:samirovic707@gmail.com">
+  <img src="https://img.shields.io/badge/Email-samirovic707@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Discord-jupyter__notebook-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+<br/><br/>
+
+<sub>Thanks for stopping by! ⭐ Feel free to explore my repositories.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdallasamir04&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+
 </div>
