@@ -246,7 +246,7 @@ A lightweight, responsive task management web app with active and completed task
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00C6FF/abdallasamir04" alt="GitHub contribution chart" />
+  <img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
