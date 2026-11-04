@@ -268,10 +268,7 @@ A lightweight, responsive task management web app with active and completed task
     <td align="center" style="border: none;">
       <a href="https://discord.com/users/jupyter_notebook">
         <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
-      </a>
-      <br/>
-      <sub>jupyter_notebook</sub>
-    </td>
+      
   </tr>
 </table>
 
