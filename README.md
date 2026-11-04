@@ -70,7 +70,7 @@ A fully implemented, enterprise-grade SaaS platform that addresses the "Experien
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,js&perline=5" alt="Darabny tech stack" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nuget/3B8BD6" height="48" alt="EF Core (NuGet)" title="EF Core (NuGet)" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/10A37F" height="48" alt="OpenAI API" title="OpenAI API" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,js&perline=5" alt="Darabny tech stack" height="48" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon-plain:microsoftsqlserver.svg?color=%23CC2927&height=48" height="48" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nuget/3B8BD6" height="48" alt="EF Core (NuGet)" title="EF Core (NuGet)" />&nbsp;&nbsp;<img src="https://api.iconify.design/ri:openai-fill.svg?color=%2310A37F&height=48" height="48" alt="OpenAI API" title="OpenAI API" />
 </p>
 
 <sub>Also: ASP.NET Core MVC · AJAX</sub>
@@ -122,7 +122,7 @@ A full-stack e-commerce system for electronic products, focused on checkout work
 **Tech Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,jquery,bootstrap&perline=4" alt="Electro tech stack" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,jquery,bootstrap&perline=4" alt="Electro tech stack" height="48" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon-plain:microsoftsqlserver.svg?color=%23CC2927&height=48" height="48" alt="SQL Server" title="SQL Server" />
 </p>
 
 <sub>Also: LINQ</sub>
@@ -203,7 +203,7 @@ A lightweight, responsive task management web app with active and completed task
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,visualstudio,pycharm,idea,figma,latex&perline=11" alt="Databases, tools, and LaTeX" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server" title="SQL Server" />
+  <img src="https://api.iconify.design/devicon-plain:microsoftsqlserver.svg?color=%23CC2927&height=48" height="48" alt="SQL Server" title="SQL Server" />
 </p>
 
 <p align="center">
