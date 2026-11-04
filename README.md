@@ -13,9 +13,9 @@
 
 ---
 
-##  Experience
+## Experience
 
-### Full Stack Developer — CCO
+### Software Engineer — CCO
 **Contract · Cairo, Egypt · Hybrid**  
 *September 2026 – Present*
 
@@ -52,7 +52,6 @@
 | Introduction to Software Engineering | IBM | April 2025 |
 | Python for Data Science, AI & Development | IBM | April 2025 |
 
-
 ---
 
 ## 🚀 Projects
@@ -61,12 +60,12 @@
 <tr>
 <td width="100%">
 
-### 🎓 Darabny Platform :  Enterprise Mentorship SaaS
+### 🎓 Darabny Platform — Enterprise Mentorship SaaS
 <p>
   <b>Software Engineering Graduation Project — FCAI, Assiut National University</b>
 </p>
 
-A fully implemented, enterprise-grade SaaS platform engineered to address the "Experience Paradox" for fresh graduates. Darabny connects students with corporate mentors through real-world micro-internships. The system uses a Clean N-Tier Architecture and a backend that combines .NET with Python-based AI microservices.
+A fully implemented, enterprise-grade SaaS platform that addresses the "Experience Paradox" faced by fresh graduates. Darabny connects students with corporate mentors through real-world micro-internships. It is built on a Clean N-Tier Architecture, with a backend that combines .NET and Python-based AI microservices.
 
 **Tech Stack**
 
@@ -81,12 +80,12 @@ A fully implemented, enterprise-grade SaaS platform engineered to address the "E
 <img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Key Innovations & Features**
+**Key Features**
 - 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice for conversational technical interview practice.
-- 🧠 **AI CV Parsing & Smart Matching:** Uses `PdfPig` to extract CV text and a custom NLP-based matching formula to rank mentors for students.
-- ⚖️ **Double-Blind Evaluation:** Mutual reviews trigger certificate issuance after both parties complete their evaluations.
-- 📜 **Cryptographic Experience Tokens:** Generates SHA-256 hashed Experience Tokens as A4-ready PDFs with public verification URLs.
-- 🏛️ **Architecture & Data Integrity:** Uses Clean Architecture, EF Core transactions, soft deletes, and restrictive cascade policies.
+- 🧠 **AI CV Parsing & Smart Matching:** Extracts CV text with `PdfPig` and ranks mentors for each student using a custom NLP-based matching formula.
+- ⚖️ **Double-Blind Evaluation:** Certificates are issued only after both parties complete their mutual evaluations.
+- 📜 **Cryptographic Experience Tokens:** Generates SHA-256 hashed experience tokens as A4-ready PDFs with public verification URLs.
+- 🏛️ **Architecture & Data Integrity:** Built on Clean Architecture with EF Core transactions, soft deletes, and restrictive cascade policies.
 
 </td>
 </tr>
@@ -112,7 +111,7 @@ A secure web application that estimates software development costs using algorit
 
 **Key Features**
 - **Internationalization:** Multi-language support and localization.
-- **Secure Communication:** Configured SSL certificates for encrypted data transmission.
+- **Secure Communication:** SSL certificates configured for encrypted data transmission.
 - **Estimation Engine:** Backend implementation of mathematical software cost-estimation models.
 
 </td>
@@ -125,7 +124,7 @@ A secure web application that estimates software development costs using algorit
 
 ### 🛒 Electro E-Commerce Platform
 
-A full-stack e-commerce system for electronic products, focusing on checkout workflows, performance, and relational database integrity.
+A full-stack e-commerce system for electronic products, focused on checkout workflows, performance, and relational database integrity.
 
 **Tech Stack**
 
@@ -192,13 +191,13 @@ A lightweight, responsive task management web app with active and completed task
 
 ### 📐 Core Computer Science Projects
 
-**Geometric Object Calculator** — Java Swing, OOP, inheritance, and polymorphism.
+**Geometric Object Calculator** — A Java Swing desktop app demonstrating OOP, inheritance, and polymorphism.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-**Terminal To-Do List** — Data structures, linked lists, and dynamic memory management.
+**Terminal To-Do List** — A console app built on data structures, linked lists, and dynamic memory management.
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -240,12 +239,14 @@ A lightweight, responsive task management web app with active and completed task
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdallasamir04&theme=2077)](https://github.com/abdallasamir04)
 
-<br/>
+</div>
 
-## 🐍 Contribution Activity
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdallasamir04/abdallasamir04/output/snake.svg" alt="GitHub contribution snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&bg_color=0d1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&area_color=00C6FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub contribution activity graph" />
 </p>
 
 ---
@@ -268,6 +269,8 @@ A lightweight, responsive task management web app with active and completed task
       <a href="https://discord.com/users/jupyter_notebook">
         <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
       </a>
+      <br/>
+      <sub>jupyter_notebook</sub>
     </td>
   </tr>
 </table>
