@@ -70,15 +70,10 @@ A fully implemented, enterprise-grade SaaS platform that addresses the "Experien
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_Microservice-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AJAX%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,fastapi,mssql,js,openai&perline=7" alt="Darabny tech stack" />
 </p>
+
+<sub>Also: ASP.NET Core MVC · EF Core · OpenAI API · AJAX</sub>
 
 **Key Features**
 - 🎙️ **AI Mock Interview Simulator:** A dedicated Python/FastAPI microservice for conversational technical interview practice.
@@ -102,12 +97,10 @@ A secure web application that estimates software development costs using algorit
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/i18n-009688?style=for-the-badge&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/SSL%2FTLS-3A3A3A?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,bootstrap&perline=3" alt=".NET Core MVC cost estimation tech stack" />
 </p>
+
+<sub>Also: ASP.NET Core MVC · i18n · SSL/TLS</sub>
 
 **Key Features**
 - **Internationalization:** Multi-language support and localization.
@@ -129,13 +122,10 @@ A full-stack e-commerce system for electronic products, focused on checkout work
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mssql,jquery,bootstrap&perline=5" alt="Electro tech stack" />
 </p>
+
+<sub>Also: LINQ</sub>
 
 <p align="center">
   <img src="https://img.shields.io/badge/3rd_Place-DEPI_Full_Stack_.NET_Graduation_Projects-FF9900?style=for-the-badge" />
@@ -156,8 +146,7 @@ A FAT-like file system simulation built from scratch to explore low-level storag
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" alt="Mini-FAT tech stack" />
 </p>
 
 </td>
@@ -175,11 +164,10 @@ A lightweight, responsive task management web app with active and completed task
 **Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite&perline=3" alt="Samir List tech stack" />
 </p>
+
+<sub>Also: SQLAlchemy</sub>
 
 </td>
 </tr>
@@ -194,13 +182,13 @@ A lightweight, responsive task management web app with active and completed task
 **Geometric Object Calculator** — A Java Swing desktop app demonstrating OOP, inheritance, and polymorphism.
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java&perline=1" alt="Java" />
 </p>
 
 **Terminal To-Do List** — A console app built on data structures, linked lists, and dynamic memory management.
 
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cpp&perline=1" alt="C++" />
 </p>
 
 </td>
@@ -273,7 +261,7 @@ A lightweight, responsive task management web app with active and completed task
       <a href="https://discord.com/users/jupyter_notebook">
         <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="40" alt="Discord" />
       </a>
-  
+    </td>
   </tr>
 </table>
 
