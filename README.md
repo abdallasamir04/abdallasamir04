@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;Backend+%26+.NET+Developer;Enterprise+Architecture+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=1100&color=00C6FF&width=680&center=true&vCenter=true&repeat=true&lines=Hi,+I'm+Abdalla+Samir;Software+Engineer;Backend+%26+.NET+Developer;Enterprise+Architecture+Enthusiast"
     alt="Typing introduction"
   />
 </p>
@@ -246,7 +246,7 @@ A lightweight, responsive task management web app with active and completed task
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallasamir04&bg_color=0d1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&area_color=00C6FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub contribution activity graph" />
+  <img src="https://ghchart.rshah.org/00C6FF/abdallasamir04" alt="GitHub contribution chart" />
 </p>
 
 ---
